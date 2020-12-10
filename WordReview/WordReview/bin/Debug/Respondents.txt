@@ -1,0 +1,3288 @@
+0	Лента		False
+1	Оооой... В фикспрайсе чаще биру		False
+2	Лимпопо		False
+3	Луч, Гамма, Кидс Фэнтази		False
+4	Луч		False
+5	1)idigo; 2)Giotto; 3)Koh-i-noor; 4) Гамма; 5) Пчёлка); 6) Цветик.		False
+6	непомню		False
+7	Kids fantasi		False
+8	Акварель		False
+9	Каляка маляка		False
+10	Каляка маляка		False
+11	Чико		False
+12	Не помню		False
+13	Поасьэ		False
+14	Никаких		False
+15	Луч, Гамма		False
+16	Курносики		False
+17	луч		False
+18	Акварель, Funsy, play do		False
+19	Плейдо		False
+20	My toys		False
+21	Эрих краузе, каляка маляка, bic		False
+22	Не помню		False
+23	Каляка-маляка, кохинор, мульти пульти, fancy		False
+24	Затрудняюсь ответить		False
+25	Бик		False
+26	.		False
+27	Big		False
+28	Не помню		False
+29	Каляка маляка		False
+30	Гамма, офисмаг,		False
+31	Калякамаляка		False
+32	Концеляр		False
+33	Лего, Danko toys, пифагор, nerf		False
+34	Каляка малчка		False
+35	Никакие		False
+36	Гамма		False
+37	не помню		False
+38	Гамма		False
+39	гамма		False
+40	Престиж		False
+41	Не помню		False
+42	Bic, Fisher price, play doh, гамма,		False
+43	Луч		False
+44	Не помню		False
+45	Djeco		False
+46	детский мир, фриско,		False
+47	каляка		False
+48	каляка маляка		False
+49	не помню		False
+50	Эрих Краус,Mared,Hadsber,BIC		False
+51	луч гамма, мульти-пульти, мультики, кроха		False
+52	АШАН		False
+53	Кидс фантази		False
+54	Фимо, Дарви, Фишер прайс, Росмэн		False
+55	Erikh krause		False
+56	Не помню		False
+57	bic		False
+58	Луч  Пчелка  Erick Krauser  Faber Castel		False
+59	не помню		False
+60	Плей до		False
+61	Не помню		False
+62	Гамма, луч		False
+63	Не помню		False
+64	плэй до		False
+65	Плэй дох		False
+66	Не помню		False
+67	Плейдо		False
+68	Луч		False
+69	Луч, гамма, ерик краузер		False
+70	Гамма,мульти - пульти,пифагор,Вжик,		False
+71	не помню		False
+72	не помню		False
+73	Акварель,		False
+74	Гамма  Луч		False
+75	Луч, brauberg, gamma, baramba		False
+76	Гамма, каляки-маляки, Пифагор, эрих Краузе, радуга,		False
+77	Луч		False
+78	Не помню		False
+79	Краела, плей до,		False
+80	артбери эрихкраузе		False
+81	Не знаю		False
+82	не помню		False
+83	комус		False
+84	Лего		False
+85	Erich krause		False
+86	Луч		False
+87	Луч		False
+88	Гамма, Deli,Мульт		False
+89	кохинор, плэй до		False
+90	Эрих Краузер		False
+91	Каляка-маляка. Луч.		False
+92	Гамма луч		False
+93	Не помню		False
+94	каляка-маляка		False
+95	Комус		False
+96	Tukzar		False
+97	Не помню		False
+98	Play Doh,   Erich Krause  Lets play  Baramba  Хатбер		False
+99	гамма эрик краузен		False
+100	Кривляка		False
+101	юнландия		False
+102	каляка маляка		False
+103	никаких		False
+104	erichkrause		False
+105	ГАММА,ROSA KIDS,Faber-Castell,Color & Co Grippy		False
+106	луч.сонет		False
+107	не помню		False
+108	не знаю		False
+109	-		False
+110	ErichKrause		False
+111	Леонардо		False
+112	Палитра		False
+113	Луч, Кохинор, Корес		False
+114	Bic		False
+115	Каляка-Маляка, Ашан		False
+116	Kanzy		False
+117	Пчелка		False
+118	мимимишки		False
+119	Луч, Каляка-маляка, ЭрикКраузер		False
+120	Play doh		False
+121	нет		False
+122	не помню		False
+123	Кохинор, гамма, луч.		False
+124	Не помню		False
+125	джэке		False
+126	Плей дох, Мульти пульти, мультики, Гамма, Пластишка		False
+127	плей До		False
+128	Каляка маляка, эрих краузе		False
+129	Play do		False
+130	Агуша		False
+131	Белочка		False
+132	белка, ленинградские ночи, конструктор		False
+133	carioca,Ленинградские краски,Фабер кастл,Каляка маляка		False
+134	Лента		False
+135	ЭЭрхафт,Tongdi,Феникс, Полиграф принт		False
+136	название не помню		False
+137	Chalk,Erich krause		False
+138	Не помню		False
+139	Каляка маляка ,луч		False
+140	Нет		False
+141	Мульти мульти, Эрик краузер,		False
+142	Гамма, Faber-Castell, Луч, Mattel, Fancy, Крайола		False
+143	Мастер фломастер		False
+144	Мультик пульт. Луч солнца.		False
+145	ClipStudio		False
+146	brauberg		False
+147	Эрих краузе, стафф		False
+148	Курносики		False
+149	Луч, carioca, kohi-noor, гамма		False
+150	лего		False
+151	не помню		False
+152	Луч, витта,		False
+153	Не обращала внимание		False
+154	На бренды не заглядываюсь. Что подешевле и по качеству на вид не плохое, то и беру		False
+155	Брауберг, норис клаб, каляка маляка, биг кидс, акварель, гуашь, акриловые, мазари, не		False
+156	гамма, crayola, ninja, bic, molo, kores		False
+157	Луч		False
+158	ЕРИК КРАУЗЕР		False
+159	хасбро		False
+160	Яркий луч		False
+161	Гамма		False
+162	Гамма, каляка-маляка, пифагор, school, creativiki, ErichKrause, луч, brauberg		False
+163	плей до и другие		False
+164	Глория джинс. Модис		False
+165	гамма  плей ду		False
+166	Эрик краузер		False
+167	Плэй до		False
+168	колор кит  палитра		False
+169	Эрих краум		False
+170	мульти		False
+171	Фабер кастелл, крайолла,		False
+172	Centrum, цветик, strabilo,, Flair		False
+173	Гамма		False
+174	непомню		False
+175	Лучик,Кохинор,гамма,эрхавт		False
+176	Плей до		False
+177	Не помню		False
+178	Не помню		False
+179	эрик краузер		False
+180	Арт спас		False
+181	Эрик краузе, silwerhof, луч		False
+182	Не помню		False
+183	никакие		False
+184	Глобус		False
+185	Не помню		False
+186	Луч, гамма		False
+187	Hasbro, erichkrause		False
+188	стами, staf? гамма		False
+189	Play doch,		False
+190	Клякса, креативик		False
+191	Луч, дисней pixar		False
+192	Крик краузе		False
+193	art berry		False
+194	гамма		False
+195	«Erich Krause»		False
+196	Каляка маляка		False
+197	Нет		False
+198	Не помню		False
+199	затрудняюсь ответить		False
+200	Не		False
+201	ФиксПрайс		False
+202	Джови, юный художник		False
+203	Плэй до		False
+204	Пони		False
+205	Не помню		False
+206	bic,каляка маляка, бруберг,луч,гамма,		False
+207	Эрих Краузе		False
+208	triokolor		False
+209	Каляка- маляка, Artspace, ErichKrause, attache		False
+210	Plaibo		False
+211	Фишер прайс, луч, лори		False
+212	multiArt		False
+213	Краузе, лимпопо		False
+214	берлинго		False
+215	Prestige		False
+216	Каляка малячка, мульти мульти, луч,		False
+217	Erich Crauser		False
+218	Гамма, erichkraus		False
+219	Лучь		False
+220	Мультипульти,CARIOCA,GAMMA		False
+221	Акварель,эрикраузер		False
+222	царевны, ерих краузер		False
+223	Охинор		False
+224	не помню		False
+225	Адидас		False
+226	плей до		False
+227	Луч		False
+228	каляка-маляка престиж юнландия пифагор Brauberg ART space луч		False
+229	Дисней		False
+230	Erichkrause,  мульти-пульти, Гамма		False
+231	стабило, ерих краузе, пчёлка, нева		False
+232	Луч, лента и больше не помню		False
+233	Не помню		False
+234	Не помню		False
+235	Рыжий кот, луч, Hasbro,		False
+236	Берлинго, классика цвета, Фабер кастел, каждый день		False
+237	play do  каляка маляка		False
+238	Гамма, плей до		False
+239	Луч, каляка маляка, гамма		False
+240	Не могу вспомнить		False
+241	Никаких		False
+242	Затрудняюсь ответить		False
+243	Не помню честно		False
+244	Брауберг, Эрих Краузер, Берлинго, Луч, мультипульти.		False
+245	Гамма луч плейдо		False
+246	луч,bic,невская палитра		False
+247	Каляка маляка,брауберг, офисмаг,пластишка		False
+248	каляка маляка		False
+249	Бик		False
+250	леонардо		False
+251	Гамма		False
+252	Каляка Маляка		False
+253	джови, намма ,сонет, луч,зарница		False
+254	Луч,кохинор		False
+255	Нет		False
+256	конструктор, кариока,бик,луч		False
+257	Alingar, Пифагор		False
+258	Акварель		False
+259	не помню названий		False
+260	Каляка маляка, плей до		False
+261	Каляка-маляка, мульти-пульти, эники-беники, мир творчества, LORI, Луч		False
+262	Российские		False
+263	Канцтовары		False
+264	Белка		False
+265	Мультипульти, гамма		False
+266	Гамма, Луч		False
+267	Гамма		False
+268	Каляка Маляка		False
+269	Затрудняюсь		False
+270	big kids? pixco		False
+271	Эрик краузе, каляка маляка		False
+272	Олелукойл		False
+273	икея		False
+274	Каляка-маляка поастилин, baramba пластилин		False
+275	Луч, мультик, maped, erichkrauser, big		False
+276	skechmarker intelligent faber stabilo		False
+277	не помню		False
+278	не помню		False
+279	Эрик крауз		False
+280	Эрик краузе		False
+281	Эриккрауз		False
+282	erikh krause		False
+283	erich krause,maped,pilot,big		False
+284	Каляка малявка. Эриккрауз.		False
+285	Гамма, Юнландия,Faber - Castell		False
+286	восход		False
+287	Каляка-маляка  Луч		False
+288	трудно сказать российскик производители		False
+289	Плей До		False
+290	Каляка маляка		False
+291	Эрих Краузер		False
+292	Затрудняюсь ответить		False
+293	Big,каляка маляка		False
+294	Каляка маляка,		False
+295	Белка		False
+296	не помню		False
+297	erich crause		False
+298	Faber Castell, Гамма		False
+299	Берлинго,хатбер		False
+300	каляка маляка		False
+301	Берлинд. Мульти пульти		False
+302	эриккраузер		False
+303	Лимпопо		False
+304	каляка маляка		False
+305	Каляка-маляка		False
+306	луч, гамма, каляка-маляка.		False
+307	Не помню		False
+308	Каляка малявка, Berlingo		False
+309	радуга лего		False
+310	Гамма, Maped, Koh-i-nor,		False
+311	каляка маляка		False
+312	Луч		False
+313	Луч, эрихкраузе		False
+314	Ерик краузер, луч, мультфильм		False
+315	Лева,		False
+316	Эрик Краузе  Каляка маляка  атташе		False
+317	Комус		False
+318	брауберг, гамма		False
+319	Луч, гамма		False
+320	Луч классика, erich krause		False
+321	Луч, Big, гамма		False
+322	Не помню		False
+323	луч		False
+324	Производителей не помню		False
+325	малышок		False
+326	луч		False
+327	лучик, оранжевый кот		False
+328	Луч,каляка маляка,эрик краусер		False
+329	Луч		False
+330	Луч, гамма,Эрик Краузе		False
+331	Erich Krause		False
+332	Курносики		False
+333	Eric Krause		False
+334	Ни помню		False
+335	Луч Брауберг Экшен		False
+336	не помню		False
+337	Нет		False
+338	Нет		False
+339	Не помню		False
+340	Не обращаю на это внимание		False
+341	Chippo		False
+342	Эрик Крауз		False
+343	Плей до, каляка-маляка, эрих краузер		False
+344	Эрих Краузе		False
+345	Луч,		False
+346	Затрудняюсь ответить		False
+347	биг		False
+348	каляка-маляка		False
+349	не помню		False
+350	мапед, гамма, сонет, луч		False
+351	Каляка-маляка		False
+352	сова		False
+353	ERICh krause		False
+354	Белочка		False
+355	Не помню никаких		False
+356	луч, хазбро, гамма		False
+357	Каляка маляка		False
+358	Adel, pixel art, play doh		False
+359	ErichKrause		False
+360	Не помню		False
+361	Луч , плей до		False
+362	Мультфильм, пластишка		False
+363	Каляка маляка		False
+364	Луч, сонет, плейдо		False
+365	Никакие		False
+366	Непомню		False
+367	Никакие		False
+368	Каляка маляка эриккраузер плейдо кроха луч фаниазер		False
+369	erich Krause		False
+370	Gamma		False
+371	Брауберг, Эрик краузе, гамма, луч		False
+372	Полесье		False
+373	луч  365		False
+374	Гамма, ашан		False
+375	Затрудняюсь ответить		False
+376	курносики, гамма		False
+377	Лучик		False
+378	каляка-маляка		False
+379	Бик		False
+380	Не помню		False
+381	Берлинго		False
+382	HD, Детский мир, Спектр, Глория джинс		False
+383	Гамма		False
+384	Гамма, плей до.		False
+385	Erick krauzer		False
+386	Носики Курносики		False
+387	Я так не вспомню		False
+388	Berlingo		False
+389	мульти пульти ,эрус краузенкаляка маляка,		False
+390	не помню		False
+391	Каляка маляка		False
+392	гамма, луч, винчи		False
+393	Луч		False
+394	Каляка-маляка, ерих краузе		False
+395	луч, эрих краузер		False
+396	Эрич краузер		False
+397	Не помню		False
+398	Штабило, Steff, эрих краузе, кохинор, каляка маляка		False
+399	каляка-маляка, Эрих краузе		False
+400	каляка-маляка		False
+401	Акварель		False
+402	Play doh, кроха, каляка-маляка		False
+403	Луч, каляки-маляки,		False
+404	Erich Krause		False
+405	Каляка маляка,луч,лори		False
+406	Крайола, адел, плей до, монделез, луч		False
+407	Гамма  Эрих краузе  Брауберг		False
+408	Луч, сиво марбели, эриккрос, панда		False
+409	Луч, Гамма, Мульти-Пульти, Плей До		False
+410	Каляка маляка		False
+411	Не знаю		False
+412	Лори, эрих Краузе, луч, каждый день		False
+413	Ничего конкретного		False
+414	Луч  Брауберг  Пилигрим  Каляка-маляка  Эрихкраузе		False
+415	Play do, гамма, koh-i-...,		False
+416	Никакие		False
+417	Луч, Эрик Краузер		False
+418	Плей до		False
+419	Луч		False
+420	Луч, брауберг, мульти-пульти, гамма		False
+421	Ерик краузен, каляка маляка		False
+422	Brauberg		False
+423	Лео, луч, спектр, лори		False
+424	Erich Krause		False
+425	Крайола, луч, гамма, плей до		False
+426	Erich Crauser		False
+427	Не запомнила		False
+428	Эрих Краузе, Faber Castell, Berlingo		False
+429	никакие		False
+430	Гамма, каляка-маляка, Пифагор,		False
+431	Эрих краузер, плэй до, каляка маляка, крайола		False
+432	Maped, koh-i-nor, луч, гамма, калякамаляка		False
+433	Каляка-маляка, луч		False
+434	...		False
+435	Пластилин		False
+436	Каляка маляка		False
+437	Не помню		False
+438	Гамма. Акварель		False
+439	палитра		False
+440	Эрик краузер, kooh-i-noor, kores, каляка- маляка		False
+441	Луч, гамма		False
+442	Koh-I-nor, deli, silwerhof		False
+443	Капиока		False
+444	Эрих крауз		False
+445	Арт бери , каждый день, ерих краузе.		False
+446	Кохинур, бруно висконти, луч, эрих крик уже, BG		False
+447	Не помню		False
+448	Lori		False
+449	Bruno Visconti, Гамма, Brauberg, Луч, Bic		False
+450	Гамма, кох-и-нор, брауберг, каляка-маляка, jovi,		False
+451	brauberg  артформат		False
+452	Не помню		False
+453	Луч, белка, гамма, кохинор		False
+454	Эрик краузе		False
+455	луч, kids fantasy erih crouse		False
+456	Big		False
+457	Конц мастер		False
+458	Лего		False
+459	Классика цвета, Эрих Краузе,гамма		False
+460	Эрик Краузе,		False
+461	Луч		False
+462	Китай		False
+463	Ни какие		False
+464	Луч, каляка-маляка, Эрик краус		False
+465	Луч, гамма		False
+466	Не помню		False
+467	Монделюз		False
+468	Не помню		False
+469	Плэйдо		False
+470	не знаю		False
+471	Луч		False
+472	Гамма		False
+473	не помню названия		False
+474	Гамма, луч		False
+475	Каляка маляка		False
+476	эрих краузе		False
+477	гамма		False
+478	Big		False
+479	Радуга		False
+480	Jovi		False
+481	Эрик краусен, Арт		False
+482	Berlingo, big		False
+483	Каляка-маляка, Эрик Краузен, Биг		False
+484	луч		False
+485	Луч, гамма, эрик краузер		False
+486	Erin krauze, play do		False
+487	Faber castell, Koh-i-noor, Гамма		False
+488	не помню		False
+489	Каляка, Брауберг		False
+490	Erich krause		False
+491	Крайола, Луч, Плэй Доу, Мапэд, Эрих краус		False
+492	Berlingo		False
+493	Play do, луч, koh-I-noor,		False
+494	Луч, фикспрайс, artspace, multi		False
+495	Эрих краузе		False
+496	Белочка,		False
+497	Каляка-маляка		False
+498	Икея, крайола, луя		False
+499	Никакие		False
+500	Не помню		False
+501	Мультики, big, луч		False
+502	Каляка маляка  Луч  Плэй до  Lori  Гамма		False
+503	Никаких		False
+504	Гамма, луч		False
+505	Плэй до,		False
+506	Гамма		False
+507	кидс		False
+508	Не помню		False
+509	Gioto  Carioca		False
+510	Boom		False
+511	Erich Krause		False
+512	мапед, гамма		False
+513	Stabilo		False
+514	Не обращаю внимание на бренды		False
+515	Три пингвина		False
+516	луч, гамма,		False
+517	луч		False
+518	Марвел		False
+519	Луч, гамма		False
+520	Бренды не помню		False
+521	Не помню		False
+522	затрудняюсь ответить		False
+523	Эрик крауз		False
+524	Мульти пульти, deti, big, гамма, луч		False
+525	луч,биг		False
+526	Никаких		False
+527	Луч		False
+528	Луч,		False
+529	Эрих краузе		False
+530	Play doh, кроха, гамма		False
+531	Каляка маляка, бик		False
+532	мутьти-пульти,каляка-маляка,		False
+533	эрик краузер, гамма, луч		False
+534	Юнландия, Каляка-маляка		False
+535	мульти пульти		False
+536	Клякса		False
+537	Erhaft		False
+538	Гамма Giotto Bic		False
+539	Луч, союз,		False
+540	Акварель медовая «Луч», Гамма.		False
+541	Луч, Мастер класс, PlayDoh		False
+542	Каляка-маляка		False
+543	Лего		False
+544	Erich Krause		False
+545	Калякамаляка		False
+546	Hello Kitty		False
+547	не помню		False
+548	Гамма, луч, фаберкастер,		False
+549	ЭрихКрауз, буро, СТАММ, Комус		False
+550	Centrum		False
+551	Не обращала на это внимание		False
+552	play doh		False
+553	Не могу вспомнить		False
+554	Фиксики,		False
+555	Каляка-маляка  Плэйдо		False
+556	Brauberg, attomex, svetocopy, silverhof		False
+557	не помню		False
+558	Не помню		False
+559	фемили, рич фемили, колор кид, эбруссо, мастер рубик		False
+560	Луч, Мастер-класс, Гамма		False
+561	Кроха		False
+562	Луч, гамма, мульти-пульти		False
+563	Эрих Краузе, Луч		False
+564	мир героев, дисней		False
+565	Юнландия, плей до,		False
+566	Каляка маляка		False
+567	Хоббит,луч		False
+568	Каляка маляка		False
+569	Не помню		False
+570	Луч,kolores		False
+571	Комус,БИК, семицветик		False
+572	Каляка- маляка  Луч		False
+573	бик, стабило,		False
+574	Каляка-маляка		False
+575	брауберг		False
+576	Бик		False
+577	Затрудняюсь ответить		False
+578	плейдо, пчелка, невская политра,белка, пони,		False
+579	Луч,mega markers		False
+580	эрих краузе		False
+581	Стамм		False
+582	луч, эрик краузер,стамм		False
+583	Не помню		False
+584	Каляка-маляка, Эрик Краузе		False
+585	каляка маляка		False
+586	Не какие		False
+587	Гамма,пифагор		False
+588	Braunberg		False
+589	ИКЕА, кид фэнтези		False
+590	Луч плейдо Мастер-класс кохинур эрих краузе каляка маляка		False
+591	Каляка маляка. Эрих краузе		False
+592	Затрудняюсь ответить		False
+593	бик  крайолла		False
+594	Гамма, луч		False
+595	Каляка- маляка, ErichKrause, Milan, гамма		False
+596	луч		False
+597	Не помню		False
+598	Каляка Маляка, Луч, Хатбер,		False
+599	Carioca, Faber-castell		False
+600	Play do		False
+601	Гамма		False
+602	Плей До, Гамма, пластишка		False
+603	Плей до		False
+604	Плей до		False
+605	кохинор		False
+606	Никакие		False
+607	никакие		False
+608	каляка маляка		False
+609	Эрих краусер		False
+610	Мульти пульти		False
+611	Краски медовые кисти пони		False
+612	луч.гамма.плей до		False
+613	Skhool, гамма, комус,		False
+614	гамма, Tukzar,		False
+615	плэйдо		False
+616	Акварель		False
+617	Гамма, сонат, луч, вентэ		False
+618	Берлинго, мульти пульти		False
+619	Мультикультурализма		False
+620	Луч,erich crause		False
+621	Каляка маляка		False
+622	Не помню		False
+623	Гамма		False
+624	Калякамаляка, гримм, мультипульти		False
+625	Гамма луч Enrich crauser		False
+626	Каляка маляка,гамма,erich krause		False
+627	Луч		False
+628	Плейдо		False
+629	скаска		False
+630	Kiders		False
+631	разные		False
+632	Акварель		False
+633	Луч		False
+634	Гамма		False
+635	Брауберг  Ерих  Каляка-Маляка		False
+636	Гамма, ErichKrause, Milan, Bruno Visconti		False
+637	Луч, Каляка Маляка		False
+638	Не помню		False
+639	Big		False
+640	Пчёлка		False
+641	-		False
+642	Ладога, брауберг, невская палитра		False
+643	Каляка маляка, эрих краузер		False
+644	Эрик краузер		False
+645	Мульти пульт, енотик		False
+646	эрих краус бинго		False
+647	Не помню		False
+648	эрик крауз		False
+649	лео		False
+650	Луч, гамма		False
+651	Пифагор		False
+652	Каляка маляка,эрик краузер,луч		False
+653	Gragio		False
+654	Брайберг,		False
+655	Плейдо		False
+656	Луч		False
+657	Плейдо		False
+658	КАЛЯКА-МАЛЯКА, ПЛЕЙ-ДО		False
+659	Каляка-маляка		False
+660	Луч		False
+661	Эрик краузер		False
+662	Artberry, Erich,феникс		False
+663	Никаких		False
+664	Брауренг		False
+665	Этихкрауз		False
+666	Плей до, гамма, лори, луч		False
+667	Акварель		False
+668	Луч		False
+669	Акварель, пони, профи стиль, berlingo, devente, jasefotten		False
+670	Crayola  Faber Castell  Erich Krause  Jola  Луч		False
+671	Луч гамма		False
+672	Луч		False
+673	непомню		False
+674	Брауберг, каляка-маляка,эрик краузе		False
+675	Гамма		False
+676	каляка маляка плей до		False
+677	Brayer, гамма, big, proff		False
+678	Луч, Гамма		False
+679	затрудняюсь ответить		False
+680	Брауберг, параграф, гамма		False
+681	Луч, берлинго,эрих краузе		False
+682	school формат, hatber,colour world,creativiki,clipstudio,белка		False
+683	Каляка маляка, Луч, много покупаю а названия не помню		False
+684	Леонардо		False
+685	Каляка-маляка, бик, плей до,		False
+686	Не помню		False
+687	ErichKrause		False
+688	Фламинго		False
+689	Луч, Лео		False
+690	луч, эрих краузер		False
+691	Play Doh, ereh crauser		False
+692	Гамма   Каляка-маляка		False
+693	Луч, плей до, каляка-маляка		False
+694	эрих краузе		False
+695	не помню		False
+696	Луч		False
+697	Юнландия		False
+698	Каляка маляка, акварель		False
+699	Эрик браузер, Луч		False
+700	Луч  Гамма  Эрихкраузе		False
+701	Офисмаг		False
+702	Икеа, Giotto, cryola		False
+703	Play		False
+704	никаких		False
+705	Пластика, каляка маляка		False
+706	Не помню		False
+707	Каляка маляка, луч, гамма		False
+708	Я не обращаю внимание на фирму, беру что дешевле		False
+709	Каляка маляка,kids fentesi		False
+710	Мульт, гамма,		False
+711	Эрикраузер		False
+712	Не помню		False
+713	Акварель		False
+714	Луч,гамма,Эрих Краузе,Брауберг,		False
+715	Луч  Каляка-маляка		False
+716	бик эрихкраузер мапед		False
+717	Гамма Фабер Касл Берлинго		False
+718	Гамма, Сонет,Артберри, Луч, АртСпейс, ЭрикКраузен..		False
+719	Кредо,		False
+720	Плэй до		False
+721	Не пом		False
+722	БИК		False
+723	Эрик краузе		False
+724	Плей до		False
+725	Калчка маляка		False
+726	Brauberg		False
+727	Не помню		False
+728	Play doh		False
+729	Брауберг,Пифагор,Эрих Краузер, луч		False
+730	луч гамма плей до классика		False
+731	Пифагор		False
+732	луч		False
+733	Big, Луч, Faber-Castell,BRAUBERG, STABILO, LORI		False
+734	Эрих Краузе		False
+735	Плэй до, Кроутер,		False
+736	енот		False
+737	Акварелька		False
+738	Краузе		False
+739	Разные		False
+740	Никаких		False
+741	колорино, гамма		False
+742	Не помню		False
+743	Эрих Краузе, Каждый день, 365 дней, Гамма		False
+744	луч,гаммма,канзи		False
+745	Play dough,		False
+746	Эрих краузу		False
+747	Limpopo		False
+748	акварель		False
+749	Луч, БИК, Икеа,кохинор,		False
+750	Стамм		False
+751	Каляка-маляка, эрик крауз		False
+752	Дед Мазай, Колорит		False
+753	Мир детства, оего, биг, дисней, поло		False
+754	плейдо		False
+755	Плей до  Гамма   Луч  Эрих Краузер		False
+756	Каляка-маляка		False
+757	Не помню		False
+758	Рисование		False
+759	Мультики гамма, ErichKrause		False
+760	Play-doh - пластилин, луч - акриловые краски		False
+761	Луч, кохинор, бруно висконти		False
+762	play doo		False
+763	Луч, Playdoh, Hatber		False
+764	эрих краузе		False
+765	Каляка моляка		False
+766	Нет, разные		False
+767	Не помню		False
+768	Пифагор, плэйдо		False
+769	эрих краузер		False
+770	луч		False
+771	Луч		False
+772	Плей арт		False
+773	Lori  Kids planet		False
+774	Артистик  Bic  Luxor  Milan  Стамм		False
+775	Эрик Краузе,луч		False
+776	плей до, эрих краус, берлинго,		False
+777	Энгри Бердс, Эрик Краузе, Каляка Маляка, Монделиз		False
+778	Плей до, ИКЕА, Эрих Краузе, Гамма, Стобило		False
+779	Пифагор гамма		False
+780	Луч, Big, Эрих Краузер, McGold		False
+781	Юнландия, Maped,  Carioca, луч		False
+782	sponsor, kids fantasy, aushan		False
+783	Не помню		False
+784	Crayola		False
+785	акварель		False
+786	гамма		False
+787	Не помню		False
+788	мульти пульти		False
+789	Умелки. Эрик краузер		False
+790	классика		False
+791	Затрудняюсь ответить		False
+792	Пчёлка  Плэй до		False
+793	Калека маляка		False
+794	Erihkrauser		False
+795	Каляка-маляка, луч, Эрих краузер, брауберг		False
+796	енгенгун		False
+797	MuitiArt		False
+798	Эрих краузе		False
+799	луч		False
+800	Карапуз, Барби, леко, BaBY, chicco, DisNep, полесье		False
+801	Клякса,самокляс,		False
+802	Клякса,		False
+803	Carioca  Цветик  Юнландия		False
+804	луч, плэй до, джови		False
+805	Кроха, Луч		False
+806	Икея		False
+807	Erich Krause		False
+808	Не помню		False
+809	радуга, эрих краузер		False
+810	Каляка маляка		False
+811	-		False
+812	Globus, Гамма, Луч, Красин		False
+813	Erfaht, каляка малявка, мир детства		False
+814	Ни какие		False
+815	луч, гамма, erich krause		False
+816	Picasso,joy		False
+817	Умная мама, Lori		False
+818	Гамма		False
+819	Непомню брендов		False
+820	Мульти пульти, Эрих краузе		False
+821	Eric craus		False
+822	Эрик краус		False
+823	Фокс		False
+824	Белые ночи, луч, невская палитра, крайола, маша и медведь, весёлая пчёлка		False
+825	Нет		False
+826	Каляка маляка		False
+827	Не обращала внимания		False
+828	Луч   Плей до  Бергер		False
+829	Пчелка, Акварель, Биг		False
+830	каляки-маляки, плей до		False
+831	солнышко		False
+832	солнышко		False
+833	Eric crayser		False
+834	Каляка маляка		False
+835	Луч		False
+836	Каляев маляка		False
+837	Гамма  Луч  Мульти пульти  Крайола		False
+838	Не помню		False
+839	Биг		False
+840	Незнаю		False
+841	Не помню		False
+842	Никаких		False
+843	каляка маляка		False
+844	луч		False
+845	Не помню.		False
+846	Bic		False
+847	Луч, Брауберг, Гамма		False
+848	Акварель		False
+849	Не помню		False
+850	Гамма, каляка маляка, эрик крауз		False
+851	Икеа		False
+852	Play Doh		False
+853	берлинго, престиж, кидс фэнтези, гамма		False
+854	К		False
+855	Акварель		False
+856	Каляка-маляка		False
+857	Биг, русский кедр		False
+858	Erhaft		False
+859	бигимотик разноцвет		False
+860	Не помню		False
+861	Пифагор, луч, мультики, erichKrause, лента, brauberg		False
+862	Гамма		False
+863	Мультики, неон, малыш		False
+864	Не помню		False
+865	Луч		False
+866	ErichKrause		False
+867	Плей до, Луч, Гамма		False
+868	Краусер		False
+869	Пифагор erich krause		False
+870	Эрик краузе		False
+871	Плэй до,		False
+872	Не помню		False
+873	Пластилин Play Doh и карандаши Berlingo		False
+874	Луч, ПлейДо		False
+875	koh-i-noor, офисмаг, Луч,		False
+876	Луч,ерич краузе,плей до		False
+877	Луч, гамма, каляка-маляка, LORI, BIC, Erich krause.		False
+878	Бик		False
+879	Не помню		False
+880	Не помню		False
+881	Не обращаю внимание		False
+882	erich krause, луч		False
+883	Эрикраузен		False
+884	Луч		False
+885	гамма, кохинор		False
+886	Hatber,луч,		False
+887	Эри краузер		False
+888	лего, мир детства		False
+889	Брауберг  Эрих краузер  Пифагор  Луч		False
+890	Разные		False
+891	Koh-i-noor		False
+892	Гамма,  crayola		False
+893	Луч		False
+894	Каляка -маляка		False
+895	не помню		False
+896	не помню		False
+897	Гамма		False
+898	Гамма,Луч,		False
+899	Кохинор, Гамма, Брауберг, Мульти-пульти		False
+900	Гамма,Луч, крайола, эрих краузе		False
+901	никакие		False
+902	Белка		False
+903	лори,фикс прайс		False
+904	Не помню		False
+905	Коляска малявка, гамма		False
+906	Крайола, фаберкастелл, централ		False
+907	Каляки-маляки, плэй до, Пифагор, crayola, fisher price		False
+908	не помню бренды		False
+909	ErichKrause  Erhaft  Луч		False
+910	Эрих краузе, пилот		False
+911	клякса		False
+912	Гамма, эрик краузер,		False
+913	Гамма		False
+914	Каляка-маляка		False
+915	Каляка маляка, эрих краузе		False
+916	луч, ErichKrause, белые ночи		False
+917	Эрик Краузе, Луч, Мульти - пульти, Лихтенштейн,Гамма		False
+918	Юрландия, bic		False
+919	Kores Kolores		False
+920	акварель  ikea  ашан		False
+921	Не помню		False
+922	brauberg		False
+923	никакие		False
+924	эрихкрауз		False
+925	каляка-маляка		False
+926	Брауберг  Хатбер		False
+927	лего		False
+928	ЮНЛАНДИЯ  ГАММА		False
+929	Центрум,цветик, фабер кастель		False
+930	не знаю		False
+931	акварель мультипульти		False
+932	Гамма		False
+933	гамма, луч		False
+934	Brauberg, Луч, Baramba, Каляка-маляка, Attache		False
+935	Никакие		False
+936	затрудняюсь		False
+937	мелисса и доуг		False
+938	Радуга,		False
+939	Гамма		False
+940	Я рисую		False
+941	BIC, Erich Crause, Классика цвета, Гамма.		False
+942	эрик краузе    луч		False
+943	ErichKrause, Луч		False
+944	Эрих Краузе  Гамма  Невская политара  Bio		False
+945	Не знаю		False
+946	БОЛЬДЕР		False
+947	гамма, эрих краузе		False
+948	Гамма		False
+949	не помню		False
+950	Луч		False
+951	STABILO		False
+952	Мульти-пульти, мистер краузер		False
+953	Skyglory, lamark, maped		False
+954	Каждый день,эрик краузер,		False
+955	Кохинур, мультики,		False
+956	Гамма, Eric krauser		False
+957	Луч		False
+958	Play do		False
+959	Никаких		False
+960	Гуашь "классика",  гуашь " Modelling clay", карандаши "erhaft", "каляка-моляка		False
+961	Не помню		False
+962	гамма		False
+963	поей до, каляка маляка,		False
+964	Дисней, эрих краузе, крайола, стабило, берлинго, луч, каляки маляки		False
+965	Каляка маляка		False
+966	каляка-маляка		False
+967	затрудняюсь		False
+968	ЭрихКрауз		False
+969	Гамма		False
+970	Не помню		False
+971	Луч		False
+972	Эрик Краус, Брауберг, Стамм		False
+973	Луч,сильверхов,лори		False
+974	Луч		False
+975	Эрих краузер, брауберг, пилигрим, атташе, гамма, комус, луч, мульти-пульти		False
+976	Мульти пульти,луч,erichKrause		False
+977	каляка-маляка, дади, луч, плей до		False
+978	Fixprals		False
+979	каляка маляка, эрих краус, луч		False
+980	Каляка маляка		False
+981	Каляка-маляка, луч, Еrhaft		False
+982	Плей до, каляка маляка		False
+983	kids fantasy , пластилин кроха		False
+984	Ерихкраузе		False
+985	erhaft, bic		False
+986	Не помню		False
+987	Радуга, Пифагор, брауберг		False
+988	Lego, play-doh		False
+989	Vente		False
+990	Пилот,creativik,berlingo		False
+991	Малышарики,штабило, Пифагора		False
+992	Эрих краузе , Биг		False
+993	School формат, гамма		False
+994	желтого цвета		False
+995	Эрик краусер		False
+996	Крафтер		False
+997	Эрих Краузе		False
+998	ErichKrause,PeLican,Futurino		False
+999	Луч		False
+1000	Не запоминаю		False
+1001	Разные бренды		False
+1002	пифагор		False
+1003	Не помню		False
+1004	Плэйдо,Лего,Луч,Гамма		False
+1005	Эрих Краузе		False
+1006	Гамма		False
+1007	Яркие		False
+1008	centropen		False
+1009	Не помню		False
+1010	Erich Krauze		False
+1011	клипстудио		False
+1012	Джови, Невская палитра, луч, мульти-пульти, гиото		False
+1013	Каляка-маляка		False
+1014	Никакие		False
+1015	Не помню		False
+1016	Гамма  Каляка маляка		False
+1017	Erich Krause, каляка-маляка		False
+1018	Сонет		False
+1019	Плей до , эрик краузе		False
+1020	Не помню		False
+1021	юнландия		False
+1022	калякамаляка		False
+1023	акварель		False
+1024	Сказка		False
+1025	Никакие		False
+1026	Луч		False
+1027	Centropen, Классика, Play Do, Erich Krause		False
+1028	Staff,браумберг		False
+1029	-		False
+1030	Луч		False
+1031	каляка маляка, колор кид, десятое королевство		False
+1032	BIC, Erich Krause, Лори, Луч, Гамма		False
+1033	Смешарики		False
+1034	мульти пульти, гамма		False
+1035	не помню		False
+1036	Мульти-пульти, троллис		False
+1037	Каляка маляка  Арт		False
+1038	Гамма		False
+1039	Эрихкраузе		False
+1040	сказка		False
+1041	гамма		False
+1042	Школьник		False
+1043	Каляка-маляка, Луч		False
+1044	Kid's Fantasy		False
+1045	эрихкраузе, блин		False
+1046	кариока каляка маляка		False
+1047	Гамма, престиж		False
+1048	Гамма		False
+1049	Не помню		False
+1050	каляка маляка, луч		False
+1051	Каляка маляка  Мазари  Эрик Краузе		False
+1052	Maped, play-doh,		False
+1053	Про		False
+1054	Плей до, курносики, каляка-маляка		False
+1055	Фабер, каляка-маляка, артбери		False
+1056	каляка маляка		False
+1057	Лего		False
+1058	не помню		False
+1059	Гамма , луч, мульти мульти,каляка маляка		False
+1060	Луч, Кроха, Плей До,		False
+1061	Детский, лего, веселинк, галдорс		False
+1062	Луч, соната, плейдох, гамма,		False
+1063	Каляка-маляка,  Эрих краузе		False
+1064	BERLINGO		False
+1065	Луч		False
+1066	плей до, гамма, дженио кидс, Crayola, кох и норр, бик		False
+1067	Плей до, клякса, коляка_моляка		False
+1068	Bic, hatber		False
+1069	1. акварель  2. мульти пульти  3. берлинго  4 гамма		False
+1070	Луч, гамма		False
+1071	Каляка-маляка, Комус, 365 дней		False
+1072	5 красок		False
+1073	Ничего не помню, к сожалению.		False
+1074	Не запоминаю названий		False
+1075	-		False
+1076	мультфильм, гамма, спектр		False
+1077	erick krauser  стамм  big  haber		False
+1078	ГАММА		False
+1079	Bondinon		False
+1080	Луч, классика		False
+1081	луч, erich krauser? сибирский кедр, brauber, kinotti, mr.painter, Bruno visconti		False
+1082	Карандаши		False
+1083	не помню		False
+1084	Lyra луч		False
+1085	Луч, брауберг		False
+1086	play doh		False
+1087	Я художник, Белые ночи		False
+1088	Не помню		False
+1089	штабило		False
+1090	Baby go,next,gloria jeens		False
+1091	кроха		False
+1092	не помню		False
+1093	Memories-precious, play doh,		False
+1094	Плей до, каляка маляка, мульти пульти		False
+1095	затрудняюсь ответить		False
+1096	Big		False
+1097	Луч		False
+1098	Гамма		False
+1099	Ашан, big, baramba		False
+1100	никакие		False
+1101	Луч		False
+1102	курносики		False
+1103	Гамма.хотвилс		False
+1104	не помню		False
+1105	Play Do		False
+1106	Луч, Акварель медовая		False
+1107	Не помню		False
+1108	Луч, Erich Krause.		False
+1109	Луч, Эрих Краузе, плей до		False
+1110	гамма, эрик краузер		False
+1111	Гамма, Штабило, Фенси		False
+1112	Гамма		False
+1113	Каляка-маляка,big,bg,луч,albatros		False
+1114	Мульти мульти, плэй до		False
+1115	Гамма,луч,erichkrause,юнландия		False
+1116	Луч, эрик краузер		False
+1117	Не помню		False
+1118	Акварель		False
+1119	Bic   Fila		False
+1120	бик, эрик кроиз		False
+1121	Каждый день		False
+1122	Луч		False
+1123	Не помню		False
+1124	плейдо		False
+1125	Эрих краузе		False
+1126	Эрихкраузен		False
+1127	мир детства		False
+1128	Play-Doh		False
+1129	Каляка маляка		False
+1130	Брауберг, кариока, гамма		False
+1131	луч		False
+1132	Эрих краузе		False
+1133	Гамма		False
+1134	Биг		False
+1135	kores? attashe		False
+1136	maped, каляка-маляка, bic		False
+1137	плэй до  луч		False
+1138	Не помню		False
+1139	Радуга		False
+1140	лента,биг		False
+1141	Этих Краузе, Берлинго		False
+1142	Не помню		False
+1143	луч, эрикраузер, малыш, primo tris, русский карандаш, белка, пони		False
+1144	гамма, луч, эрих краузе		False
+1145	не помню		False
+1146	Эрик Краузер		False
+1147	Эрихкраузер		False
+1148	Каляка маляка. Эрих крауза. Луч.		False
+1149	Play Do		False
+1150	Не помню		False
+1151	ЛУЧ, ГАММА, СОЮЗ, СТАММ, ФАБЕР КАСТЕЛ		False
+1152	Не помню		False
+1153	гамма, луч, ерик краузе		False
+1154	Луч, Erich crause, faber castell		False
+1155	Не помню		False
+1156	Каляка-маляка, Kite, play-do		False
+1157	золотой луч		False
+1158	не помню		False
+1159	всегда покупаю разные		False
+1160	Гамма		False
+1161	Гамма,луч		False
+1162	Луч, Гамма, Пифагор, Плей до		False
+1163	гамма		False
+1164	Артико		False
+1165	Никаких		False
+1166	Каляка-маляка		False
+1167	не помню		False
+1168	Гамма  Мульти  Bic  Берлинго  Пилот		False
+1169	Erich Krause, Maped		False
+1170	Каляка-маляка, ярко		False
+1171	Луч  Лори  Гамма		False
+1172	Гамма		False
+1173	Акварель		False
+1174	Эрхаф  эрих краузе  фикс прайс		False
+1175	Ластик		False
+1176	не помню		False
+1177	Гамма		False
+1178	Пифагор, bic		False
+1179	невская палитра, крайола,		False
+1180	гамма		False
+1181	Не обращаю внимание на названия. Не могу припомнить		False
+1182	Луч,мультики,		False
+1183	гамма, Глобус, робинс, полиграф, пони, proff		False
+1184	Пластилин "Луч", витражные краски "Луч", гуашь "Lori", фломастеры "GSF Industries",		False
+1185	каляка маляка		False
+1186	луч, малевич, каляка-маляка, koh-i-nor, невская палитра		False
+1187	не помню производителей		False
+1188	Гамма		False
+1189	Каляка маляка		False
+1190	Не обращаю внимания на названия   Беру то , что подходит по цене		False
+1191	Не помню		False
+1192	Джеко  Арт сет  Лакки  Цветик		False
+1193	Луч		False
+1194	эрихкраус		False
+1195	ерих краузе		False
+1196	нева		False
+1197	Brauberg, классика		False
+1198	гамма, каждый день		False
+1199	Лента.ашан		False
+1200	Плей до		False
+1201	Луч		False
+1202	Брауберг		False
+1203	Эрик краузе		False
+1204	Гамма		False
+1205	не помню название, но помню упаковку		False
+1206	faber castell, play doh, maped		False
+1207	Эрик Краузер		False
+1208	брингер, эрик краузе  луч		False
+1209	cryone, play doh		False
+1210	затрудняюсь		False
+1211	спектр,лимпопо		False
+1212	не помню		False
+1213	Play Doh пластилин, краски Акварель Гамма		False
+1214	луч		False
+1215	Не помню		False
+1216	Эрих Краузе		False
+1217	эрик краузер		False
+1218	Плэй до		False
+1219	Не помню названия		False
+1220	Затрудняюсь ответить		False
+1221	Каляка маляка, кохинор, берлинго, эрихкраузер		False
+1222	Не помню		False
+1223	Erich Krause  Stabilo  каляка маляка   город игр		False
+1224	Луч, эрих Краус, венте		False
+1225	мульти пульти,erich krause, staff,гамма,пифагор,tukzar		False
+1226	Berlingo		False
+1227	Радуга пластилин		False
+1228	мультики		False
+1229	Ерих краузе, луч, гамма, спектр, стам, глобус, союз,		False
+1230	Аквафор		False
+1231	Джеко артсет калиграта аква-колор		False
+1232	Классика,		False
+1233	каляка		False
+1234	Солнышко		False
+1235	ккляка маляка		False
+1236	Каляка-маляка, lori		False
+1237	Плейдо, смешарики		False
+1238	Пластилишка,"Каляка-Маляка","ErichKrause", "Возьму".		False
+1239	Pley do		False
+1240	Луч		False
+1241	Ikea		False
+1242	Мульти,		False
+1243	Play Done		False
+1244	Не помню		False
+1245	луч,краузер, биг		False
+1246	Луч		False
+1247	Эрих краузер, плей до		False
+1248	Я не помню		False
+1249	Ерих Краузер		False
+1250	Koh-i-noor?Ленинград, Сонет, Белые ночи, гамма, vista-artista?невская палитра		False
+1251	Berlingo		False
+1252	Каляка маляка, гамма, эрих краузер		False
+1253	Эрих Краузе, луч, Берлинго, гамма		False
+1254	Не помню		False
+1255	Гамма		False
+1256	Непомню		False
+1257	Брауберг, юнландия,		False
+1258	Eric crauser		False
+1259	Не помню		False
+1260	Accola		False
+1261	эрихкраузер		False
+1262	Не помню		False
+1263	Биг		False
+1264	Erich Cruze не помню ка пишется)  Play game play do		False
+1265	луч, престиж, пчелка, сонет		False
+1266	Эрик краузе		False
+1267	Каляка маляка		False
+1268	Crayola		False
+1269	Не помню		False
+1270	Гамма, Эрих Краузе		False
+1271	Гамма, Луч, bic, koh-I-noor, faber castle, Carioca, сонет		False
+1272	Эрих Коаузе		False
+1273	каляка-маляка, гамма, луч		False
+1274	эрик краузе. дуч		False
+1275	ErichKrause		False
+1276	Арт,акварель		False
+1277	каляка-маляка		False
+1278	Краузер, пчёлка, акварель		False
+1279	Еrich Krause		False
+1280	Play the game		False
+1281	Нет		False
+1282	Watercolours		False
+1283	Не помню ??		False
+1284	Каляка маляка, ерих краузер,		False
+1285	курносики		False
+1286	Луч,гамма		False
+1287	Лучше, кайзер, плей до, икеа		False
+1288	Эрик краузе, мультипульти		False
+1289	Beerlingo		False
+1290	Каляка-маляка,		False
+1291	Краус		False
+1292	незнаю		False
+1293	Маша и медведь		False
+1294	Пони,кариока		False
+1295	Гамма.эрик краузер.луч.браунберг		False
+1296	Плей-до  Каляка- маляка  Кохинор  Луч  Гамма		False
+1297	Каляка маляка, faber castlel, мульти-пультм, crayola		False
+1298	лего		False
+1299	не помню		False
+1300	gghghghh		False
+1301	не помню		False
+1302	Мульти пульти		False
+1303	Луч		False
+1304	Аква. Плейдо.		False
+1305	Акварель, гуашь, цветные пластиковые карандаши компания attomex, восковые корндаши kid's Fantqsy их же компаний фломастеры меджик маркеры, пластилин Маша и медведь		False
+1306	Юный художник  Рисуем сами		False
+1307	Гамма, мультфильмы, эрихкраузер		False
+1308	крайола,центрум		False
+1309	Не обращаю внимания на бренд		False
+1310	гамма		False
+1311	плэйдо, каляка маляка, радуга красок, пчелка, эринкрауз, БИК		False
+1312	Не помню		False
+1313	Гамма		False
+1314	Play doh		False
+1315	Берлинго, кохинор, самоцветы		False
+1316	Centropen, Каляка-Маляка, Луч,Гамма, Брауберг		False
+1317	Каляка маляка.		False
+1318	пилот,мастер,мапед		False
+1319	Erichkrauzer		False
+1320	невская палитра, луч классика цвета		False
+1321	Zoo		False
+1322	Не помню. При покупке не оринтируюсь на бренд		False
+1323	Пифагор, пчёлка,		False
+1324	Арт бери,каляка маляка		False
+1325	луч		False
+1326	Кохинор, луч, фабел кастелл		False
+1327	Пифагор, каляки маляки		False
+1328	Луч Амос кохинор мапед эрикраузе каляка маляка		False
+1329	Пифагор, kon-i-noor		False
+1330	каляка маляка   брауберг		False
+1331	не помню		False
+1332	Плей до, Эрик краусе, Биг		False
+1333	Не помню		False
+1334	Радуга, карусель,		False
+1335	Не помню		False
+1336	Каляка-маляка		False
+1337	Не помню		False
+1338	не помню		False
+1339	Брауберг, Невская палитра		False
+1340	Не помню		False
+1341	Lori, ErichKrause, Гамма, Tukzar,		False
+1342	не помню		False
+1343	Плей до		False
+1344	Кари кидс		False
+1345	Eric krauze		False
+1346	Эрик краузер		False
+1347	Невская палитра, intelligent, smartProduct, плэйДо, Erich Krause,		False
+1348	Korea		False
+1349	Гамма акварель кухинор		False
+1350	Плейдо, кахинор		False
+1351	курносики		False
+1352	Erich Krause луч		False
+1353	Плэй до.пифагор		False
+1354	Фирмы названия честно не помню		False
+1355	Каляка маляка		False
+1356	не смотрю на бренды		False
+1357	Не помню		False
+1358	ЭрихКраузер		False
+1359	Плей до, Эрик Краузе		False
+1360	Каляка маляка		False
+1361	Эрих краузе		False
+1362	гамма луч брауберг		False
+1363	Мульти пульти		False
+1364	Staff , brauberg, Carioca , bic kid’s , Пифагор		False
+1365	крайола, молпинк,		False
+1366	Эрих краузе  Лучик  Харнер		False
+1367	Ни один		False
+1368	Не помню		False
+1369	ЭрихКраузе		False
+1370	Не помню		False
+1371	Каляка-маляка, Erich Krauser		False
+1372	Hasbo		False
+1373	Мультипульти		False
+1374	Не помню		False
+1375	не обращаю внимания		False
+1376	Гамма		False
+1377	Не помню		False
+1378	Гамма		False
+1379	Плей-офф до		False
+1380	не помню		False
+1381	Каляка-маляка,		False
+1382	Ериккрауз		False
+1383	Разные		False
+1384	Брауберг.берлинго.мульти пульти		False
+1385	Рыжий кот, луч, центрум, Пифагор, брауберг, крайола, гамма		False
+1386	Bic,Stabilo		False
+1387	Юландия		False
+1388	акварель,гуашь-луч пластилин - гамма,кисти -палитра		False
+1389	Луч, каляка-маляка, мульти-пульти, гамма		False
+1390	эрихкпаузер. ашан. биг. луч. престиж.		False
+1391	Не помню		False
+1392	ашан, детский мир		False
+1393	Не помню		False
+1394	Гамма, кидс фентези, мульти-пульти		False
+1395	Не помню		False
+1396	Каляка маляка, биг, эрик краузе		False
+1397	Луч		False
+1398	Каляка маляка, бик, луч, эрик краузе,		False
+1399	Луч, брауберг, эрихкраузе		False
+1400	не помню, всегда разные		False
+1401	Ерих краузер		False
+1402	Луч, Лео, Гамма		False
+1403	Луч, гамма,		False
+1404	Незнаю		False
+1405	Луч, гамма, crayola, каляка-маляка		False
+1406	centropen		False
+1407	Гамма, big		False
+1408	акварель, малыш, гамма		False
+1409	ерик круз, мапед		False
+1410	цветик,арпрайс,клипстудио		False
+1411	Не помню		False
+1412	затрудняюсь ответить		False
+1413	не помню		False
+1414	джиото, jovi, bic, невская палитра, луч		False
+1415	Луч		False
+1416	дисней		False
+1417	Не помню		False
+1418	Не помню		False
+1419	Baramba, луч, erichkrauze, гамма		False
+1420	brauber, kohinor,		False
+1421	Hatber, centropen, луч,attashe,гамма,      Сибирский кедр,action		False
+1422	Каляка маляка		False
+1423	лучь, каляка-маляка,		False
+1424	Berlingo, playdoh		False
+1425	ErichKrause,		False
+1426	Не помню		False
+1427	Луч, гамма		False
+1428	Нет не помню		False
+1429	Canabol, гамма, brauberg		False
+1430	Не помню		False
+1431	Biс, луч, brauberg, hatber, каляка маляка, мультики, мульти пульти		False
+1432	erich krause, berlingo, каляка-маляка		False
+1433	луч		False
+1434	Весна, kid's Fantasy, kores		False
+1435	Не помню		False
+1436	Луч,Акварель,erichkrause,office space,Berlingo,art space		False
+1437	Гамма, луч, Milan,  фабер кастель,		False
+1438	Не помню		False
+1439	луч, гамма, юнландия		False
+1440	Гамма		False
+1441	Буратино		False
+1442	Эрих краузе		False
+1443	Каляка маляка  гамма  луч  хатбер  кайт  кох-нор		False
+1444	Луч, гамма, эриккраузе		False
+1445	эрихкраузе		False
+1446	Erich Krause, koh-I-noor, каляка маляка, boom, гамма, Faber-castell		False
+1447	не помню		False
+1448	Акварель		False
+1449	Нет		False
+1450	Ой не знаю		False
+1451	Калека маляка		False
+1452	краузер		False
+1453	каляка-маляка, эрих краузе, кох-и-нор		False
+1454	Каляка маляка ,уроки рисования ,маджик макси,белочка,		False
+1455	Каждый день, PROFIT, bikmark, дай пять		False
+1456	стабила		False
+1457	Эрих Краузе,		False
+1458	Луч,erichkrause,		False
+1459	Эрих краузе		False
+1460	Акварель		False
+1461	Гамма, Мультики, Bic		False
+1462	Луч		False
+1463	Никаких		False
+1464	Каляка-маляка		False
+1465	Классика,брауберг,Эрикх крауз,хатбер		False
+1466	комус		False
+1467	Не помню		False
+1468	Не обращаю внимание на бренды		False
+1469	Гамма, Эриккраузер, Кохинор, Кариока, Центропен		False
+1470	Не обращаю внимания на бренды		False
+1471	Центрум, брауберг, джови, лира, санкт-петербург, Нева, икея		False
+1472	гамма		False
+1473	Леонардо, Эрих Краузе		False
+1474	Каляка маляка, Erich krauser		False
+1475	Каляка маляка		False
+1476	Брауберг		False
+1477	Плей до, луч		False
+1478	Красный карандаш, brauberg, каляка маляка,артформат, лори, стабило, сонет,, гамма, глобус, артприма, акыафине		False
+1479	Не помню		False
+1480	Сказка		False
+1481	Клякса		False
+1482	Play-doh  Пифагор  Centropen		False
+1483	Не помню		False
+1484	Гамма, луч, ерихкраузе		False
+1485	Каляка-маляка		False
+1486	ERICH KRAUSE		False
+1487	Только Коляка маляка		False
+1488	ErichKrause, луч		False
+1489	Не знаю		False
+1490	Мякиш, erichKrause, vente, staff, каляка-маляка		False
+1491	Эрик Краузе, Кохинор, Стабило		False
+1492	Эрих Краузе		False
+1493	Листок  Акварель  Миг		False
+1494	Луч, эрихкраузе, брауберг		False
+1495	трудно вспомнить		False
+1496	Краски мира, красная цена		False
+1497	Каляка-маляка .		False
+1498	фантазия		False
+1499	Эрик Краузе,Brauberg  Остров сокровищ		False
+1500	erich krause		False
+1501	Каляка маляка		False
+1502	Каляка-Маляка, Мульти-пульти		False
+1503	Скайглори, никелодеон		False
+1504	Луч, Эрик краузе		False
+1505	Плей до, Гамма, Brauberg, Jovi		False
+1506	Эрик краузэ		False
+1507	Каляка-Маляка  Берлинго  Хатбер  Стабило		False
+1508	Каляка-маляка, Брауберг, Бик		False
+1509	луч		False
+1510	Bic, Каляка-Маляка, Цветик		False
+1511	Карапуз,бэби борн		False
+1512	Scool, brauberg		False
+1513	Затрудняюсь ответить		False
+1514	Не помню		False
+1515	Луч		False
+1516	Пони, луч, brauberg		False
+1517	Луч		False
+1518	Нет		False
+1519	Луч, гамма, эрих краузер		False
+1520	Гамма  Плей до  Луч  Берлинго		False
+1521	Не помню		False
+1522	Эрих кракс		False
+1523	Каляка маляка		False
+1524	Каляка-маляка		False
+1525	Каляка маляка		False
+1526	Ерих краузе, мир детства		False
+1527	мотор,		False
+1528	Белка,Смешарики,полигон,		False
+1529	Гамма, Луч, Art berry, Berlingo, Carioca, Brauberg, Play Doh		False
+1530	Не помню		False
+1531	Каляка-маляка, гамма		False
+1532	Гамма  Эрих Краузе   Жозеф оттен		False
+1533	Луч, гамма		False
+1534	Каляка маляка, эрих крауз,креативики,гамма,плей до		False
+1535	Брауберг, каждый день		False
+1536	каляка маляка, эрих краузе		False
+1537	каляка маляка		False
+1538	луч		False
+1539	каляка маляка		False
+1540	Затрудняюсь ответить		False
+1541	Незнаю		False
+1542	НИКАКИЕ		False
+1543	Гамма, кохинор, луч.		False
+1544	Каляка малявка,мульти пульти		False
+1545	Brauberg, КалякаМаляка, Стафф,		False
+1546	лори		False
+1547	Не помню		False
+1548	Не помню		False
+1549	Гамма, луч, мультипульти, кохинор, хатбер		False
+1550	Limpopo		False
+1551	Эрих краус		False
+1552	эрик краузер		False
+1553	Гамма, луч		False
+1554	Гамма, Артформат, Луч		False
+1555	Пифагор  Каляка маляка  Мульти пульти  Гамма		False
+1556	Каляка-маляка		False
+1557	конус		False
+1558	гамма,эрих краузе		False
+1559	Биг		False
+1560	Berlingo, Erich krouser		False
+1561	Акварель		False
+1562	Bic		False
+1563	Каляка моляка		False
+1564	Луч		False
+1565	Гамма, луч, centropen, erich Krause		False
+1566	Не помню		False
+1567	Брауберг   Луч  Пифагор		False
+1568	эрих краузер		False
+1569	Эрих краузе		False
+1570	тесто из детства, фетров, дед мазай, Десятое королевство, колор кит		False
+1571	затрудняюсь ответить		False
+1572	Три кота , радуга		False
+1573	Каляка-маляка, фантазия		False
+1574	никаких		False
+1575	Калькулятор маляка		False
+1576	пеликан		False
+1577	Луч, Play-doh, Каляка-маляка, Erich Krause, Джик-турбо, Panini.		False
+1578	Bic, brauberg, staff, пифагор		False
+1579	Giotto		False
+1580	Белка, биг, браунберг		False
+1581	Каляка-маляка, эрихкраузе, мультипульти, бик		False
+1582	Гуаш, арт спейс		False
+1583	Плэй до		False
+1584	Эрих краузе,  каляка малявка,		False
+1585	хатбер  elco  lyra		False
+1586	Хатбер,эрих краузе		False
+1587	Луч		False
+1588	Луч		False
+1589	Play doh		False
+1590	Луч,гамма		False
+1591	Коляка маляка, буква ленд, юнландия,		False
+1592	не помню		False
+1593	Каляка-маляка, мульти-пульти		False
+1594	Плей до		False
+1595	Непомню		False
+1596	Не обращаю внимание на бренд		False
+1597	Калека маляка		False
+1598	Гамма Плей До		False
+1599	луч, кидс фэнтэзи		False
+1600	Не помню		False
+1601	Луч гуашь  Erich krause		False
+1602	никаких		False
+1603	Акварель		False
+1604	Berlingo, каляка-маляка, эрих Краузе, крайола		False
+1605	Carioca		False
+1606	Акварель		False
+1607	Не помню		False
+1608	Erik crause		False
+1609	Лори, плей до		False
+1610	Каляка-маляка,ерих краузе		False
+1611	Каляка маляка, Эрик		False
+1612	Луч гуашь, классика цвета		False
+1613	Centropen  Erickrauce   Луч		False
+1614	Брау берг		False
+1615	забыла		False
+1616	ерик краузер		False
+1617	Не помню		False
+1618	плей до,каляка маляка,брауберг		False
+1619	Play do		False
+1620	Каляка-маляка, луч		False
+1621	Луч Berlingo, Brauberg,Маша и медведь.		False
+1622	Кохинур		False
+1623	Брауберг. Луч. Каждый день. ЭрихКраузе		False
+1624	Каляка маляка		False
+1625	Ни одного не помню		False
+1626	Каляка маляка, креатвики,  артберри, ромашка, плэйс ду		False
+1627	Koh-i-Norr		False
+1628	Калека маляка		False
+1629	Плей до, акварель, эрих Краузер		False
+1630	Стас, каояка малышка,фиксики, три кота		False
+1631	не помню		False
+1632	не знаю		False
+1633	Не помню ничего		False
+1634	Гамма, барбоскины, луч		False
+1635	Лел и тиг, дисней		False
+1636	каляки-маляки, Eric krause		False
+1637	не помню		False
+1638	Мульти друг, стамм,каляка-маляка,		False
+1639	Erich Krause		False
+1640	Плэй до, каляка маяка, лучше, гамма		False
+1641	Farber		False
+1642	Не помню		False
+1643	Кайзер		False
+1644	Каляка-маляка, луч, бик		False
+1645	каляка-маляка.эрихкраузе		False
+1646	Эрих краузе, каляка маляка, Бруно висконти		False
+1647	не помню		False
+1648	Каляка-маляка,школа талантов, юный художник, Луч.		False
+1649	Не помню		False
+1650	Маляки		False
+1651	Не помню		False
+1652	крайола, каляка-маляка, арт бери,  maped, Brauberg.		False
+1653	брауберг		False
+1654	Эрих краузе		False
+1655	Каляка маляка  Гамма		False
+1656	Луч		False
+1657	Гамма		False
+1658	Престиж, классика цвета, play-doh, crayola		False
+1659	Просто		False
+1660	фабер кастл, гамма, берлинго, брауберг		False
+1661	Каляка маляка  Гамма		False
+1662	Каляка - маляка,		False
+1663	Каляка-маляка,ikea		False
+1664	луч,гамма,пифагор,каляка-маляка		False
+1665	Никакие		False
+1666	Каляка маляка		False
+1667	Эрих Краузе, Луч, Гамма, Арт Бери, Color Pencil		False
+1668	Зола, глопия джинс,		False
+1669	луч, невская палитра, рублев, кахинор, плей до, каляка-маляка		False
+1670	Гамма		False
+1671	Луч  Гамма		False
+1672	Play doh		False
+1673	Лента, коляки моляки, ериккраузер,брауберг, бигкидс		False
+1674	Не помно		False
+1675	Никакой		False
+1676	Big		False
+1677	Эрик краузер		False
+1678	плей до		False
+1679	Плей до, Луч, Кохи-нор		False
+1680	Каляка маляка		False
+1681	Каляка-маляка  Каждый день   Икея		False
+1682	Эрик краус		False
+1683	Затрудняюсь ответить		False
+1684	фикс прайс		False
+1685	Каляка-маляка, луч, гамма, Эрик Краузе,хасбро		False
+1686	Луч,артерии,эрих краузе		False
+1687	Bruno visconti, престиж, erichkrause		False
+1688	ООО гамма		False
+1689	Playdough   Sonnet  Луч  Ollk  Гамма		False
+1690	каляка маляка,		False
+1691	Классика цвета		False
+1692	Каляка маляка		False
+1693	Color prncils		False
+1694	Каляка-маляка  Лента  ArtBerry  Bic  Berlingo		False
+1695	Не смотрю на бренды		False
+1696	Фиксики, престиж,  луч, классика цвета,		False
+1697	Каляка-маляка,кроха		False
+1698	Эрик Краузе, Мульти Пульти, Луч, Плэй до		False
+1699	не помню		False
+1700	Луч,гамма эрик краузе		False
+1701	Не помню		False
+1702	ерик краузе		False
+1703	Brauberg		False
+1704	Леминго		False
+1705	Сентро  Эрик краузе		False
+1706	пифагор, луч,лента,мала		False
+1707	брауберг,конус		False
+1708	Луч, эрик краузер, каляка		False
+1709	не помню		False
+1710	Луч, брауберг		False
+1711	ErichKrause		False
+1712	Спектор, колорит		False
+1713	Faber Castel		False
+1714	Каляка-маляка, play-doh,гамма		False
+1715	Bigs		False
+1716	луч, brauberg		False
+1717	Краски карандаш,  пластилин кисточки цветная бумага		False
+1718	Луч, гамма, Эрих краузер		False
+1719	не помню		False
+1720	Лори  Плей до  Плей Арт  Каляка маляка		False
+1721	Лори,		False
+1722	Луч, икея, ашан, каждый день, гамма		False
+1723	Тачки, кисти-кисточки		False
+1724	плей до . хатбер, эрик крауер		False
+1725	не обращаю внимание на бренды		False
+1726	Play door		False
+1727	Юнландия, каляка-маляка, Пифагор, эрих Краузен, луч		False
+1728	Эрич краус, лол		False
+1729	Акула,глория		False
+1730	Луч, Мир детства		False
+1731	Не помню		False
+1732	Gamma, Kid's fantasy, Erichkrause, Луч		False
+1733	Луч, Гамма, мапед		False
+1734	Малыш  Солнышко		False
+1735	Кроха, мульти пульти		False
+1736	Dadi		False
+1737	луч		False
+1738	томский кедр, луч, эрих краузе		False
+1739	Не помню		False
+1740	Stabilo, Erich Krause		False
+1741	Фишерпрайс		False
+1742	эрих краузе		False
+1743	Erich krause		False
+1744	Лео		False
+1745	Плей до		False
+1746	erich krauser, луч, каляка маляка, hatber, berlingo		False
+1747	Каляка-маляка; best price		False
+1748	луч		False
+1749	нет		False
+1750	Плей доф		False
+1751	Каляка- маляка, луч,		False
+1752	Мазари		False
+1753	Крокид		False
+1754	Невский		False
+1755	мультики, гамма, кохинор, ФаберКастелл, малевич, плейдох		False
+1756	Эрихкраузе луч		False
+1757	Гамма		False
+1758	Не помню		False
+1759	Луч		False
+1760	Никаких		False
+1761	Плей до		False
+1762	Юный волшебник,jove,перлвмутрики		False
+1763	Эрхафт, эрих краузе		False
+1764	ATIKO Kids		False
+1765	Моделинг клэй		False
+1766	Гамма		False
+1767	Erich Krause  Каляка-Маляка		False
+1768	краски -луч,каляка-маляка.пони		False
+1769	Березка, кох и нур, бик		False
+1770	Лего		False
+1771	гамма, луч, мульти-пульти,		False
+1772	Гамма , плей до , мульти пульти ,		False
+1773	лего		False
+1774	луч, erich crause, bic, megapolis		False
+1775	Плей до		False
+1776	Erich Krause Jovi Art Berry		False
+1777	курносики		False
+1778	Каляка маляка, ерих краузер,офисмаг,		False
+1779	Луч  Классика цвета краски пластилин		False
+1780	Play doh  Erik krause		False
+1781	Эрихкраузе		False
+1782	Гамма  Эреккраузер		False
+1783	Play-doh		False
+1784	эриккрауз, берлинго		False
+1785	Цветик, луч, 7 гномов, гамма		False
+1786	Гамма		False
+1787	Брауберг		False
+1788	Детский мир, длчь и сын,		False
+1789	не помню		False
+1790	Филипин		False
+1791	дисней		False
+1792	Фантазия		False
+1793	луч, пчелка		False
+1794	не помню названий		False
+1795	Нет		False
+1796	Луч		False
+1797	Big kids		False
+1798	Ерих краус, мульти пульти, гамма		False
+1799	Гамма, Бондибон		False
+1800	Гамма		False
+1801	Еrucr		False
+1802	Кому, пчёлка, луч		False
+1803	Затрудняюсь ответить		False
+1804	Эрих крауз, бруно висконти		False
+1805	Аврора		False
+1806	Не помню бренд		False
+1807	Луч		False
+1808	эрик краус		False
+1809	Акварель		False
+1810	гамма, плей до		False
+1811	Каляка- маляка		False
+1812	Не помню		False
+1813	ерик крауз		False
+1814	Каляка маляка		False
+1815	луч. лента. биг		False
+1816	луч, кохинор, каляка-маляка, фабер кастель		False
+1817	Невская палитра, kooh I nor, луч		False
+1818	каляка маляка		False
+1819	Луч		False
+1820	Не помню названий		False
+1821	каляка-маляка		False
+1822	каляка, кроха.		False
+1823	Крайола		False
+1824	Эрих Краузе		False
+1825	брендовые маша и медведь, лошадки, олимпиада		False
+1826	много		False
+1827	Никаких не знаю, покупаем то, что есть в магазине		False
+1828	Кроха		False
+1829	Не обращала внимание		False
+1830	Carioca, Centropen		False
+1831	Эрик крауз		False
+1832	Bic		False
+1833	кроела		False
+1834	Стабило		False
+1835	Радуга		False
+1836	Ерих Краузе		False
+1837	Бик  Кариока		False
+1838	Lori		False
+1839	Каляка Маляка, джой, кох и нор, луч		False
+1840	Не смотрю на бренд		False
+1841	ксиоми		False
+1842	Гамма		False
+1843	Луч, фабер кастел,каляка маляка, конинор, эричкрауз, мапед		False
+1844	Гамма, Мэпид, Эрик краузер		False
+1845	Солнышко		False
+1846	Кохинур, эрик краузе		False
+1847	Плей до		False
+1848	не помню		False
+1849	плейдо эрихкраузе		False
+1850	луч		False
+1851	Икея		False
+1852	Плэй до		False
+1853	Ни каких		False
+1854	Мульти Пульти,silwerhoff,brauberg,maped,artberry,гамма,луч		False
+1855	эрик краус		False
+1856	Каляка-маляка, фабер кастел		False
+1857	Не помню		False
+1858	Фабер костел, кох и нур, каляка-маляка, maped		False
+1859	Brauberg  Луч		False
+1860	rhfepth		False
+1861	Профи		False
+1862	Луч		False
+1863	Брауберг		False
+1864	Эрик краузер		False
+1865	крауф		False
+1866	Каляки маляки, классика		False
+1867	бик		False
+1868	Не помню		False
+1869	Erich Krause, гамма, комус, pilot, Faber-Castell		False
+1870	Арт спейс,  Луч.  Гамма		False
+1871	Мульти-пульти,этих краузе, тукзар		False
+1872	Плей до		False
+1873	каляка маляка		False
+1874	гамма луч		False
+1875	Каляка-маляка, Луч, Плейдо, крошка енот, Ерих краусе, Бин		False
+1876	эрик краузер, каляка-маляка		False
+1877	Акварель		False
+1878	каляка маляка		False
+1879	Лего		False
+1880	гамма		False
+1881	марази		False
+1882	Эрик Краузе		False
+1883	Висма, erichKrause		False
+1884	Никакие не помню, марки не смотрю		False
+1885	Эрик Краузе		False
+1886	Гамма,бибер		False
+1887	Луч		False
+1888	Каляка маляка		False
+1889	ПлейДо		False
+1890	Ставим, гамма, дай пять, дади		False
+1891	Play Doh, гамма, Crayola		False
+1892	Плей до, calligrata		False
+1893	Гамма, штабило		False
+1894	hatber		False
+1895	Луч		False
+1896	креола, каляка-маляка, плейдо		False
+1897	каляка маляка		False
+1898	Палитра		False
+1899	Лего		False
+1900	Не помню		False
+1901	Крайола, гамма,эрич краузе		False
+1902	Play-doh		False
+1903	Кроха		False
+1904	сильверхоф, луч, скулформат,бик		False
+1905	Кико, hm, gj,		False
+1906	Икеа		False
+1907	Полесье		False
+1908	Erich Krause		False
+1909	Луч		False
+1910	затрудняюсь ответить		False
+1911	Луч, каляка-маляка		False
+1912	Каляка маляка, Гамма		False
+1913	палитра		False
+1914	луч,эрих краузе		False
+1915	луч, плей до,		False
+1916	Каляка Маляка		False
+1917	Кохинор		False
+1918	Эрихкраузе		False
+1919	гамма, эрих краузе, луч		False
+1920	Edding		False
+1921	Каляка маляка, гамма, еричкраузер		False
+1922	Плей-До, Каляка-маляка		False
+1923	Гамма, каляка-маляка		False
+1924	Каляка маляка, солнышко, эрик краузер		False
+1925	Erich Krauser brauberg		False
+1926	365 дней		False
+1927	Луч, каляка-маляка, фабер кастел		False
+1928	Каляка маляка		False
+1929	Big		False
+1930	Леонардо, фикс прайс		False
+1931	FaberCastell		False
+1932	Каляка-маляка, эрих краузе		False
+1933	Краски		False
+1934	не помню		False
+1935	НЕ ПОМНЮ		False
+1936	Луч,		False
+1937	Затрудняюсь, всегда разные покупаю		False
+1938	не помню		False
+1939	staff		False
+1940	Луч, Ерих Краузе,Кохинор		False
+1941	солнышко		False
+1942	Erich Krause, Art Berry; deVente; Луч		False
+1943	Не помню, беру недорогой ценовой категории		False
+1944	эрик краузе,луч, креативики		False
+1945	Луч		False
+1946	Пластилин-Луч  Карандаши- эрик краузер		False
+1947	Цветик		False
+1948	Эрик Краузе, Каляка Маляка		False
+1949	Playdoh		False
+1950	Геотто,канзобос		False
+1951	Луч, пифагор, ерих Краузе,		False
+1952	Lyra, Derwent, Stabil		False
+1953	нкакие		False
+1954	.		False
+1955	плейдо, каляка-маляка		False
+1956	Белка, брауберг, сонет.		False
+1957	кариока		False
+1958	глориа джинс		False
+1959	каляка маляка		False
+1960	Не помню		False
+1961	Не помню		False
+1962	Какие понравятся		False
+1963	Эрик краусе, футурино		False
+1964	Луч, Плей до, мульти		False
+1965	Гамма		False
+1966	Биг, эричкраусер,		False
+1967	Луч		False
+1968	Каляка Маляка		False
+1969	Koh and nor  Каляка маляка  Bambino		False
+1970	Эрих Краузе		False
+1971	Не помню		False
+1972	Луч		False
+1973	Не помню		False
+1974	Каляка-Маляка, Луч, Эрих Краузе		False
+1975	Луч, икеа		False
+1976	Какаду		False
+1977	Каляка маляка,		False
+1978	непомню		False
+1979	Бик.		False
+1980	Разные		False
+1981	Play Doh		False
+1982	Луч,		False
+1983	BIC,мульти-пульти, Гамма, Stabillo		False
+1984	Луч,гамма,каляка маляка,		False
+1985	Erich Krause,Erich Krause,Brauberg		False
+1986	BIC		False
+1987	Биг, калека маляка		False
+1988	Брауберг		False
+1989	Не помню		False
+1990	Erichkrause, гамма,		False
+1991	Гамма  Каляка Маляка		False
+1992	Erich Crause, гамма, луч, Bic, brauberg		False
+1993	Названия не помню		False
+1994	Bic		False
+1995	Эрих крауз		False
+1996	Брауберг		False
+1997	Луч		False
+1998	Каляка маляка		False
+1999	Не помню		False
+2000	Футурино,Умка,плейдо		False
+2001	Эрихкраузе. Кайт. Мультипульти. Крайола		False
+2002	Не помню		False
+2003	Бик		False
+2004	Не помню		False
+2005	Не помню		False
+2006	Затрудняюсь ответить		False
+2007	Луч, каляка-маляка		False
+2008	Кризис Краузе,		False
+2009	каляка		False
+2010	Не помню		False
+2011	плей до  ерик краузе		False
+2012	кохинор		False
+2013	Луч		False
+2014	Билинго,		False
+2015	Не обращаю внимание на бренд		False
+2016	ErichKrause, Art Berry, Гамма, Globus, Луч		False
+2017	Луч, Невские краски, brauberg, berlingo		False
+2018	Луч,каляка-маляка,Эрик краузер,брауберг		False
+2019	Пифагор, рыжий кот, эрич краузе,		False
+2020	Каляка-маляка,классика цвета луч,		False
+2021	луч		False
+2022	не помню		False
+2023	Big Kids,Erick Krause, Faber Castell		False
+2024	Радуга, Солнышко		False
+2025	плэйдо,акварель, эрик краузер		False
+2026	гамма		False
+2027	Гамма		False
+2028	Каляка маляка		False
+2029	Каляки маляки		False
+2030	всякие		False
+2031	Не помню		False
+2032	Луч,		False
+2033	луч, каляка моляка,		False
+2034	...		False
+2035	эрикраузер, полэй-до, амос, невская палитра		False
+2036	клякса,		False
+2037	Гамма,крайола,луч		False
+2038	Эрик Краузе, Луч		False
+2039	брауберг, луч		False
+2040	Эрих Краузе, кохинур		False
+2041	Луч		False
+2042	не помню		False
+2043	Какляка маляка, малышок,луч,attomex, эдельвейс, форум, brauberg		False
+2044	нет		False
+2045	Centrum, мульти-пульти		False
+2046	акварель, старт,		False
+2047	Каляка маляка, Дисней, Эрих краузе		False
+2048	Каляка маляка,эричкраузе, луч,		False
+2049	никакие		False
+2050	Гамма		False
+2051	Эрик Краус		False
+2052	Berlingo		False
+2053	Fix price		False
+2054	луч		False
+2055	не помню		False
+2056	Дисней		False
+2057	Акварель, плэй до		False
+2058	Гамма		False
+2059	плейдо, фабер кастел, гамма		False
+2060	Луч, гамма, erichKrause		False
+2061	Разные		False
+2062	луч, пифагор, гамма, браунберг,стафф		False
+2063	никакие		False
+2064	Луч,краузер		False
+2065	play doh,комус ,акварель,гуашь		False
+2066	SCHMINCKE		False
+2067	Луч, брауберг		False
+2068	Не помню		False
+2069	мультипульти, плэйдо,		False
+2070	Каляка маляка		False
+2071	Луч, тимка		False
+2072	Плэй до, гамма		False
+2073	Lessy		False
+2074	творчество		False
+2075	Moped,		False
+2076	play-doh, faber-castell, гамма,clipstudio,prof-press		False
+2077	Брауберг, Артбери		False
+2078	Акварель		False
+2079	Erikkrauser		False
+2080	Jovi		False
+2081	Geburt		False
+2082	Никакие		False
+2083	не помню		False
+2084	каляка маляка		False
+2085	Лента, окей, эрик краузер, гамма, брауберг, офисспэйс		False
+2086	Я не обращаю на это внимание		False
+2087	гамма, мультипульти, big, пилот, корес		False
+2088	Лимпопо  Кариока  Каляка-маляка		False
+2089	BIG		False
+2090	Каляка-маляка, брауберг		False
+2091	Луч		False
+2092	Икея, луч, арт идея		False
+2093	плей до		False
+2094	криола		False
+2095	Гамма		False
+2096	ErichKrause,луч		False
+2097	Каляка -маляка,луч		False
+2098	Город игр, Jovi, гамма классический, brauberg		False
+2099	луч, koh-i-noor, bruno visconti, гамма		False
+2100	лента,гамма,sponsor erichkrause kids fantasy		False
+2101	Bic, Erich Craus.		False
+2102	Луч		False
+2103	Цветик, эрик краусе		False
+2104	Луч		False
+2105	Детский мир		False
+2106	Эрих Краузе, луч		False
+2107	Каляка-маляка		False
+2108	Не помню названий		False
+2109	Нет		False
+2110	Эрихкраузе, луч, гост		False
+2111	Невская палитра		False
+2112	Каляка маляка		False
+2113	Акварель, каляка маляка		False
+2114	Брауберг, плей до		False
+2115	Луч, Гамма, Кроха		False
+2116	Не помню		False
+2117	биг		False
+2118	Каляки Маляки, Бергауф,		False
+2119	кроха, каляка-маляка, белка		False
+2120	лелека		False
+2121	гамма. луч.		False
+2122	не помню		False
+2123	Bic, crayola, erich krauze, luxor, стамм		False
+2124	Play doh  Карандаши икеа  Baramba		False
+2125	Каляка-маляка, луч,гамма		False
+2126	не помню		False
+2127	Crayola, maped		False
+2128	Лучше, гамма, кохинур		False
+2129	не знаю		False
+2130	Не помню		False
+2131	Не помню		False
+2132	пчелка, каляка-маляка, erich krause		False
+2133	Genii kids, play do		False
+2134	офис маг  брауберг		False
+2135	Плей до, Гамма		False
+2136	брауберг, офис маг, эрик краусер		False
+2137	не пчелка		False
+2138	альбоьрос		False
+2139	Луч, ерик краузе, мапед		False
+2140	Мульти п3льти		False
+2141	стамм, бок киос, пифагор		False
+2142	Каляка Маляка, кисти Белка,Spase,Луч, Hatber		False
+2143	Гамма, Кохинор, Луч		False
+2144	Мастер		False
+2145	Плейдон, луч		False
+2146	Луч		False
+2147	Луч, Эрик крауз		False
+2148	каляка маляка, луч		False
+2149	каляка маляка		False
+2150	Каляка маляка		False
+2151	не помню		False
+2152	плэй до		False
+2153	Playdo		False
+2154	луч гамма,bic evolution,carioca		False
+2155	Краски		False
+2156	Play do, луч		False
+2157	Крик краузер.		False
+2158	Эконом		False
+2159	Гамма		False
+2160	Эрик краузер		False
+2161	Сонет, Ikea		False
+2162	Легр		False
+2163	Big		False
+2164	кико, батик, чико, куини, киабаи		False
+2165	не помню		False
+2166	каляка-маляка		False
+2167	Эриккраус, Берлинго, мапед, девенте, вруно Висконти, биг, Фабер кастел,хатбер.		False
+2168	Калякамаляка		False
+2169	каляка маляка  эрих краузе  лори  джоби		False
+2170	Лего		False
+2171	Плей до, классика, хей клей, кроха		False
+2172	Брауберг		False
+2173	Калякамаляка		False
+2174	Лори		False
+2175	Гамма, луч		False
+2176	...........		False
+2177	Калякамаляка		False
+2178	Каляка-маляка, кохинор		False
+2179	art berry  гамма  каляка маляка  луч		False
+2180	гамма		False
+2181	Berlingo		False
+2182	jovi, play do, каляка-маляка, пифагор, tukzar		False
+2183	Луч		False
+2184	затрудняюсь ответить		False
+2185	Crayolla  Erich Krause		False
+2186	Каляка		False
+2187	Не помню		False
+2188	-		False
+2189	IKEA,play doh		False
+2190	Белка		False
+2191	Не знаю		False
+2192	не помню		False
+2193	Каляка малявка, эрихкраузе		False
+2194	Креатививк, Каляка-маляка, пифагор		False
+2195	Не помню		False
+2196	Крайола, эрих Краузе, ленинградские краски, луч		False
+2197	не помню		False
+2198	Эрих краузе, хатбер,юниверсал		False
+2199	Эрик краусен, гамма		False
+2200	Луч, Гамма ,Эрик Краузер		False
+2201	Play Doh, пластишка, пластилин, краски невская палитра, кисти художественные		False
+2202	Луч, гамма		False
+2203	Гамма		False
+2204	Гамма,Луч		False
+2205	Каляка маляка		False
+2206	Этих Краузе		False
+2207	Не помню		False
+2208	Каляка-маляка,		False
+2209	Не помню		False
+2210	Каляка-маляка, Crayola, Кроха		False
+2211	Берлинго		False
+2212	не обращаю внимания на бренды		False
+2213	крайола, луч, плей до, гамма, ерих краузе		False
+2214	Плей до		False
+2215	machaon		False
+2216	Эриккраузер		False
+2217	Каляка-Маляка, Комиз		False
+2218	Art berry		False
+2219	Пластишка, плэй дох, гамма, луч		False
+2220	Гамма   Мульти пульти   плейдо		False
+2221	Луч, каляка маляка, пчелка		False
+2222	луч,brauberg,buro,сима ленд,плей до,		False
+2223	Гамма		False
+2224	Futurino? Котофей		False
+2225	Erich krause		False
+2226	луч ерхафт плей-дох профф		False
+2227	Не помню		False
+2228	Луч каляка маляка спабио биг		False
+2229	луч		False
+2230	Луч		False
+2231	Centrum		False
+2232	Erich krause, гамма, пифагор, кохинор		False
+2233	пластишка		False
+2234	лего, бик		False
+2235	Каляка маляка , play do		False
+2236	ErichKrause  Schoolформат  Каляка маляка  Акварель		False
+2237	луч, эрих крауз,гамма		False
+2238	Гамма		False
+2239	Не помню		False
+2240	Эрик краузе, кохинор, штабуло, бик, фабер кастелл		False
+2241	Ерикраузер		False
+2242	Ерих краузе, луч		False
+2243	bumbel		False
+2244	Не помню		False
+2245	затрудняюсь ответить		False
+2246	Лего		False
+2247	каляка маляка, эрихкраузе		False
+2248	Гамма, Мульти-Пульти, Кохинор, Хатбер, Кастл		False
+2249	Play doo		False
+2250	Erich Krause, каляка маляка		False
+2251	ИКЕА		False
+2252	каляка маляка  леонарто		False
+2253	ерихкраузе		False
+2254	ЛУЧ		False
+2255	гамма, луч, невская палитра, белые ночи, moped		False
+2256	Кидс, каляка молочка, наши детки,		False
+2257	белочка		False
+2258	Луч, Erichcrause, bic		False
+2259	Гамма, лучик,		False
+2260	Затрудняюсь ответить		False
+2261	Faber Castel		False
+2262	Луч,bic,erickrause		False
+2263	Никаких		False
+2264	не помню		False
+2265	Эрик Краузе, мульти мульти, мэйпед		False
+2266	Плей до,kids fantasy, brauberg		False
+2267	каляка-моляка, гамма		False
+2268	луч,		False
+2269	derwent, brauberg		False
+2270	Эрик каузе		False
+2271	Не помню		False
+2272	Каляка-маляка, луч, икеа, русский карандаш,		False
+2273	Бондибон		False
+2274	Эрих Краузе		False
+2275	Плей до. Какие были в магазине		False
+2276	Гамма		False
+2277	Луч		False
+2278	Каляка-маляка  Синий попугай		False
+2279	Флом		False
+2280	Луч, классика, эрихкраузе, краелла, биг		False
+2281	каляка-маляка, кроха,		False
+2282	Бегемотик		False
+2283	Акварель		False
+2284	Гамма  Мульти пульти		False
+2285	Гамма		False
+2286	Луч		False
+2287	Луч, гамма, зк,		False
+2288	Rich family, Детский мир		False
+2289	Плей до ,кохинор,		False
+2290	не помню		False
+2291	Не обращаю внимания		False
+2292	Юнландия, Пифагор, луч, ерихкраузер		False
+2293	Erich crouser  Hooh I noor  Гамма  Ленинград  Pilot		False
+2294	Crayola, erich Krause		False
+2295	Не помню		False
+2296	Лерн плей		False
+2297	Берлинго, ерихкраузе		False
+2298	-		False
+2299	крайола,		False
+2300	Эрих краузе  Каляка маляка  Крауберг  Стабило		False
+2301	Плейдо		False
+2302	Не помню		False
+2303	луч, гамма, экрихкраузе, брауберг		False
+2304	гамма    луч		False
+2305	Луч		False
+2306	Крауберг		False
+2307	Гамма		False
+2308	Гамма, луч,каляка-маляка		False
+2309	Erih krauzer, gamma, de vente, polipax		False
+2310	палитра,эрих краузе		False
+2311	Каляка-маляка,		False
+2312	союзмультфильм и плейдо		False
+2313	Кариока, чёрная речка		False
+2314	Не помню названий		False
+2315	Антошка, Рисуем вместе,  Big Kids		False
+2316	Silwerhof, cullian		False
+2317	pen		False
+2318	Луч, гамма		False
+2319	Луч, Каляка-Маляка, Эрих Краузе		False
+2320	carioca,centrum, кохинор		False
+2321	Енот,		False
+2322	эрик краузе, классика,брауберг, луч		False
+2323	Каляка-Маляка		False
+2324	Не помню		False
+2325	Колобок		False
+2326	пчелка,луч		False
+2327	Эрих краузе		False
+2328	Луч, гамма		False
+2329	брауберг, эрик краузер, гамма, каляка маляка		False
+2330	Радуга		False
+2331	Koh-I-Noor, derwent, kanzy		False
+2332	гамма,луч,кариока,биг,		False
+2333	mazari, plAY DOH,гамма, генио кидс, мапед, jovi		False
+2334	брауберг		False
+2335	акварель		False
+2336	Гамма		False
+2337	Луч, Бик		False
+2338	Луч, ПлейДо, Каляка Маляка		False
+2339	Гамма		False
+2340	Акварель, play doh		False
+2341	Пифагор, erichrauser		False
+2342	Каляка-маляка		False
+2343	бубльгум		False
+2344	Каляка маляка		False
+2345	Эрих Краузе Гамма big Луч		False
+2346	Erik krowzer		False
+2347	Мульти пульти		False
+2348	Каляка-маляка, koh-i-nor, Луч, School формат		False
+2349	-		False
+2350	Эрих краузе,		False
+2351	Не помню		False
+2352	бруно висконти, эрик краузе, каляка-маляка		False
+2353	Гамма, кохинор		False
+2354	Гамма. Erich krauser.		False
+2355	Луч, океан		False
+2356	Каляка маляка		False
+2357	Эрикраузэ		False
+2358	эрик крайзе		False
+2359	луч, carioca, jovi		False
+2360	Луч  Berlingo		False
+2361	art spase		False
+2362	Не помню		False
+2363	Не помню		False
+2364	kraila		False
+2365	Файбер, эрих краузе, кастел		False
+2366	Брауберг, каляка маляка,		False
+2367	Гамма, каляка-маляка, луч, пифагор		False
+2368	Мила, эрих краузе		False
+2369	Гамма, луч		False
+2370	Затрудняюсь ответить		False
+2371	Никакие		False
+2372	Не знаю		False
+2373	бегемот		False
+2374	Мультик пульти		False
+2375	олки, невская палитра, плей до		False
+2376	Эрик краузер		False
+2377	кроха,каляка маляка		False
+2378	Тимошка		False
+2379	Кариока, берлинго ,арт идея		False
+2380	Эрик краузер, лента, победитель, гамма		False
+2381	Классика цвета, big, erichKrause		False
+2382	Каляка маляка  Эрих Краузе		False
+2383	Пчёлка		False
+2384	каляка -маляка		False
+2385	kids fantasy,azur kids,centropen,смешарики,твистеры,centropen,jumbo,коляка-маляка,faber- cfstell,long life		False
+2386	Не помню		False
+2387	плэй до		False
+2388	Луч, биг		False
+2389	МультиПульти		False
+2390	калякамаляка		False
+2391	ABC toy		False
+2392	Каляка маляка, colorino, bondibon		False
+2393	Erich Krause, Office Line, Stabilo, Hatber		False
+2394	арт спейс  гамма  мульти пульти  корес		False
+2395	Erhaft,ErichKrause		False
+2396	Ерих краузе		False
+2397	Луч		False
+2398	Луч, кох и нор		False
+2399	Луч,гамма		False
+2400	Луч, Сонет, pentel, mazal, kooh-in-noar,		False
+2401	ерихкраузе		False
+2402	никаких		False
+2403	луч		False
+2404	ни каких		False
+2405	Каляка маляка  Clipstudio  Центрум  Луч		False
+2406	Брауберг		False
+2407	Пифагор		False
+2408	Big, berlingo, IKEA		False
+2409	365 дней, КалякаМаляка, Лента		False
+2410	Бэст прайс		False
+2411	Акварель		False
+2412	Не помню		False
+2413	Мапед бик эрихкраусе фаберкастел		False
+2414	не помню названий		False
+2415	Не помню		False
+2416	Kioko		False
+2417	Не помню		False
+2418	гамма		False
+2419	Луч, Erice Krause		False
+2420	Каляки маляки		False
+2421	Каляка-маляка		False
+2422	Луч		False
+2423	Акварель		False
+2424	Kohinor, gamma, луч, Faber castel, centrum		False
+2425	Луч, эрих краузе, то что надо		False
+2426	Луч,каляка маяка,гамма,эрих краузе		False
+2427	Гамма  Краски  Брауберг  Эрикрауз  Кроха		False
+2428	Не помню		False
+2429	луч, каляка-маляка, мульти-пульти, гамма, центропен		False
+2430	Каляка-маляка, креативики, эрик-крауз, плэй-до		False
+2431	Гамма,    play doh, луч, пеликан, kraft, brauberg, ладога		False
+2432	Каляка-маляка, Brauberg		False
+2433	Ерик Краусе		False
+2434	Brauberg		False
+2435	не помню		False
+2436	Берлинго,эрик краузе.хэтбео		False
+2437	икеа дели		False
+2438	Watercollor, jove max		False
+2439	Не помню		False
+2440	Не помню		False
+2441	Луч		False
+2442	Луч , каляка маляка, ерих краузе		False
+2443	Пифагор		False
+2444	Erick Krauzer, Луч, elfhart, палитра		False
+2445	Гамма, сонет, браунберг, декола		False
+2446	крошка		False
+2447	Плей до, крайола,		False
+2448	Луч,Гамма,Bic,Stabilo		False
+2449	лори		False
+2450	не помню		False
+2451	Гамма, лимпопо.		False
+2452	Никаких		False
+2453	101 Далматинец		False
+2454	Не помню названий		False
+2455	Эрих краузер		False
+2456	Луч		False
+2457	Play do cores Erich Krause stabiilo и доугие		False
+2458	erich krause		False
+2459	мое солнышко		False
+2460	Луч, Гамма, Мульти-Пульти, №1 School, Мультики, Барби, Отличник		False
+2461	арт, каляка-маляка		False
+2462	не помню		False
+2463	Не помню		False
+2464	Гамма, луч, стафф		False
+2465	Эрехкраузе		False
+2466	не помню		False
+2467	Никакие		False
+2468	Не помню		False
+2469	Престиж  Мастер		False
+2470	Не помню		False
+2471	Луч  БИК  STABILLO		False
+2472	не помню		False
+2473	каляка		False
+2474	луч		False
+2475	Алфавит		False
+2476	Никаких		False
+2477	эрих крауз,каля маля		False
+2478	Каляка-маляка,big,hatber		False
+2479	эрих крауз		False
+2480	арполджжэ		False
+2481	Дисней, фиксики, каждый день, кахинор, ерих краузер, конструктор		False
+2482	Затрудняюсь ответить		False
+2483	не какие		False
+2484	Эрих Краузе, Пифагор		False
+2485	эрих краузе		False
+2486	Хатбер		False
+2487	play doh, koh, erichkrause		False
+2488	Каждый день		False
+2489	Элмхкоаузер		False
+2490	Не помню		False
+2491	мульти-пульти		False
+2492	Каляка_маляка  Хатбер  Луч		False
+2493	Плэй до, carioca		False
+2494	Не помню названий		False
+2495	лего		False
+2496	Ekraus		False
+2497	Луч, ерих краузер, плей до, гамма, кахинор		False
+2498	Каляка моляка,луч		False
+2499	Не обращала внимания на бренд		False
+2500	Плей до		False
+2501	Луч, гамма, сонет, каляка маляка		False
+2502	Не помню		False
+2503	centropen, fima		False
+2504	Не помню		False
+2505	Jovi, FaberCastell, Невская палитра, Луч		False
+2506	кроха.ооо брет прайст.мультики.berlingo.silwerhof		False
+2507	гамма		False
+2508	Луч, гамма, калякамаляка		False
+2509	Гамма		False
+2510	Пони		False
+2511	Берлинго, ерих краузер		False
+2512	Лента,стабилло		False
+2513	Addi, Alfa		False
+2514	не помню		False
+2515	Каляка-маляка, Берлинго, мапед, Милан, мульти-пульти , гамма, луч		False
+2516	не помню		False
+2517	Смешарики, ми-ми-мишки, фиксики, маша и медведь, три кота		False
+2518	Лори  Плей до  Ерих Краузе   Бик		False
+2519	Не помню		False
+2520	Луч, кариока, ерик краус, белка, пилот		False
+2521	Flach		False
+2522	Каляка маляка, гамма, корес, луч		False
+2523	луч. эрих краузе		False
+2524	Ашан		False
+2525	Пчёлка,		False
+2526	Не обращала внимания на брэнды: карандаши, они и есть карандаши		False
+2527	Каляка маляка		False
+2528	Никакие		False
+2529	пифагор		False
+2530	Эрик краузер,плэй до		False
+2531	Пифагор, эрих краузе, штам, берлинго,		False
+2532	Луч		False
+2533	Лента		False
+2534	луч  кариока  пчелка  мультики		False
+2535	Луч, эрик раузен		False
+2536	Гамма, Кохинор, Луч		False
+2537	Мульти-пульти		False
+2538	Эрик краузер		False
+2539	Big,		False
+2540	Крайола  Эрих краузе  Каляка маляка		False
+2541	Луч, радуга		False
+2542	Гамма, Союзмультфильм		False
+2543	ни одного не помню		False
+2544	Брауберг		False
+2545	Гамма,плей дом,эрихкраузе		False
+2546	playdoh  брауберг		False
+2547	Гамма		False
+2548	луч		False
+2549	ErichKrause, Koh-i-Noor, Каляка-маляка, Луч, Классика.		False
+2550	Не помню		False
+2551	Луч, бик, гамма		False
+2552	не помню		False
+2553	Луч, Икеа		False
+2554	Не помню		False
+2555	Луч, Lori,Каляка-маляка		False
+2556	Каляка-маляка		False
+2557	не помню		False
+2558	Каляев малявка,мультипульти		False
+2559	Кадяка малявка фикс прайс		False
+2560	Плей до		False
+2561	Луч		False
+2562	Плэйдо		False
+2563	Эрих краузер, луч, калякамаляка.		False
+2564	Лимпопо,silwerhof,классика цвета,centrum,луч, kids fantasy		False
+2565	Кроха, play doh, луч		False
+2566	Луч,каляка малявка, Пифагор		False
+2567	Проф пресс, умная бумага, каляка маляка		False
+2568	не помню		False
+2569	Нет		False
+2570	DeFente		False
+2571	Каляка-маляка, гамма, кохинор, фабер -кастель		False
+2572	не помню		False
+2573	Брауберг, Мультики, Мульти Пульти, Лори		False
+2574	палитра, кох и нор, берлинго, эрих краузе		False
+2575	Луч.кроха.ерич.		False
+2576	гуашь луч,пластилин harber?rfhfylfib fify		False
+2577	Каляки маляки		False
+2578	Эрик краус		False
+2579	Stabilo,Koh-i-noor,Maped		False
+2580	Гамма,BIC, Djeco,JOVI		False
+2581	Гуашь		False
+2582	эрих краузе, стабило, брауберг		False
+2583	Ценирум		False
+2584	гамма		False
+2585	не помню		False
+2586	аврявароява		False
+2587	Каляка-маляка, Мастеркласс, мультик-пульти		False
+2588	Краус		False
+2589	Не помню		False
+2590	Луч		False
+2591	Луч, каляка маляка		False
+2592	не помню		False
+2593	Гамма		False
+2594	Каляки маляки, луч, Артберри		False
+2595	Эрик краузе		False
+2596	Луч		False
+2597	Луч, гамма		False
+2598	Элекраузер		False
+2599	Икеа, Эрих Краузе, Штабило, Гамма,Берлинго,Кариока		False
+2600	Стабило		False
+2601	Брауберг, Эрик Краузе, мультик-пультами, каляка-маляка		False
+2602	Не помню		False
+2603	Ничего		False
+2604	Брауберг		False
+2605	Гамма		False
+2606	Bc, bom, кому, гамма		False
+2607	эрих краузе, берлинго, бик, крайола, луч		False
+2608	Затрудняюсь ответить		False
+2609	Каляка-маляка		False
+2610	Пифагор, гамма, Луч, каляка-маляка		False
+2611	Эрих краузе		False
+2612	Каляка-маляка, стамм, care bears, эрих краузер, гамма		False
+2613	Лучше, еришкраузер,		False
+2614	Не помню		False
+2615	Braubetg, Гамма		False
+2616	Блеквуд		False
+2617	кареока		False
+2618	не помню		False
+2619	мульти пульти,луч, каляка маляка, биндибон,юнландия,лео		False
+2620	Фирма луч		False
+2621	Не помню		False
+2622	Я на названия не обращаю внимания		False
+2623	Бик, юнландия		False
+2624	Плей до  Эрихкраузе  Лента  Гамма  Дидо  Каляев мамочка  Арт Спейс		False
+2625	Брауберг		False
+2626	плэй дох		False
+2627	Не знаю		False
+2628	Мульти-пульти, каляка-маляка,   Фабер-кастелл, гамма, луч		False
+2629	Каляка-маляка, эрик-краузе, хатбер,		False
+2630	Не помню		False
+2631	Гамма		False
+2632	Луч, bruno visconti, erih krause, сибирский кедр, мультипульти		False
+2633	Луч, пифагор, гамма		False
+2634	Не помню		False
+2635	каляка-маляка, erhaft, erichkrause, scentos		False
+2636	Гамма, луч...		False
+2637	не помню		False
+2638	Не помню.		False
+2639	Этих Краузе		False
+2640	брауберг		False
+2641	Каляка маяка, erichkrause		False
+2642	Каляка-маляка, гамма, луч		False
+2643	ни какие		False
+2644	Pentel, сонет		False
+2645	Луч		False
+2646	гамма, хатбер, сонет, каляка-маляка, мульти-пульти		False
+2647	Не помню		False
+2648	Луч		False
+2649	Play Doh		False
+2650	Курносики		False
+2651	Кохинур, Эрих Краузе, Комус		False
+2652	не помню		False
+2653	Не помню		False
+2654	мульти пульти		False
+2655	Не помню		False
+2656	Brauberc		False
+2657	кохинор		False
+2658	Силверхоф, эрхафт, луч		False
+2659	плей до		False
+2660	никаких		False
+2661	каляка-маляа		False
+2662	Эрихкраузер		False
+2663	Эрих Краузер		False
+2664	Не помню		False
+2665	Jovi, play doch, faber castle, stabilo, big, гамма, луч, cryola, lori, hatber, djeco		False
+2666	Гашь лента		False
+2667	Бондибон		False
+2668	play do		False
+2669	Белка, ЭрихКроузер		False
+2670	Гамма, эрик Краузе, икея,		False
+2671	Гамма, май тойз,		False
+2672	Эрик краузер		False
+2673	Bondibon,луч		False
+2674	К сожелению не помню. Покупала что подешевле.		False
+2675	Гамма, подольск-арт центр		False
+2676	Луч		False
+2677	ПлейДо		False
+2678	Акварель		False
+2679	Не помню		False
+2680	Феникс,Стрекоза,Асмар		False
+2681	Не помню		False
+2682	не помню		False
+2683	Гамма		False
+2684	Ни какие		False
+2685	не помню		False
+2686	Каляка-маляка, bic, цветик-семицветик, ленинградская акварель, свинка-пеппа		False
+2687	дай пять юный школьник		False
+2688	Невская палитра, Декола, Сонет, Гамма		False
+2689	луч, лира		False
+2690	brauberg,		False
+2691	Ашан		False
+2692	Биг, ErichKrause		False
+2693	YaLong ToGo,гуашь гамма, Dmo Polymer clay,  QINGHUA NO.177-12 фломастер		False
+2694	Каляка маляка, листенок, ерих краузе, икея, кидс фэнтэзи, фанси, брауберг, арт спэйс		False
+2695	Калякамаляка, кохинор,		False
+2696	Солнышко		False
+2697	эрих краузе, хороший		False
+2698	Каляка-маляка, brauberg, Луч, Мульти-Пульти		False
+2699	Луч, мультик пульти икеа		False
+2700	Fixpreis		False
+2701	Луч, Ютландия, пифагор		False
+2702	Не помню		False
+2703	idigo  ГАММА  GIOTTO  ROSA		False
+2704	Разные		False
+2705	Не помню		False
+2706	Луч, Гамма, BIC		False
+2707	Каляка маляка,		False
+2708	Спектр,глобус,гамма,светоч,авто-колор,кпк,Деко,пластилин		False
+2709	crayola, каляка-маляка, faber castle		False
+2710	луч, мульти пульти, гамма, брауберг		False
+2711	Луч		False
+2712	невская палитра		False
+2713	Не запоминаю бренды		False
+2714	Пони, Радуга		False
+2715	Моделинг		False
+2716	эрикраузер		False
+2717	Гамма, МультиПульти, каляка маляка		False
+2718	Пифагор, классика цвета, мульти-пульти		False
+2719	Не помню		False
+2720	БИК, юнландия		False
+2721	луч		False
+2722	Ерихкраузе		False
+2723	Мультфильм		False
+2724	Maped brauberg centropen		False
+2725	Луч, эрик краузер		False
+2726	Луч, каляка-маляка, рисовашка, erichkrause, престиж,		False
+2727	Каляка-маляка, erhaft		False
+2728	Не помню		False
+2729	гамма		False
+2730	Гамма		False
+2731	Big		False
+2732	play do		False
+2733	каляка-маляка		False
+2734	Каляка маляка		False
+2735	акварель		False
+2736	Плейдо ,Фиксики		False
+2737	Белка, мышонок, футурино,		False
+2738	гамма		False
+2739	затрудняюсь ответить		False
+2740	Koh i noor, berlingo		False
+2741	Не помню		False
+2742	луч ерих крауз		False
+2743	Эрих краузе,копик		False
+2744	Луч, Ашан		False
+2745	Lego,		False
+2746	Брауберг		False
+2747	луч, кохинор		False
+2748	-		False
+2749	луч		False
+2750	Не помню		False
+2751	Плейдо, Хатбер, Мульти-пульти, Эрих Краузер		False
+2752	эрих краузе		False
+2753	Каляка маляка		False
+2754	политра		False
+2755	Каляка-маляка, play-doh		False
+2756	не помню		False
+2757	офис-маг,крауфберг		False
+2758	затрудняюсь		False
+2759	Гамма, луч, ErichKrause, Carioca, Bic, Berlingo, Pilot		False
+2760	Брауберг, Луч, Офисмаг,		False
+2761	альфа,  комус, ктдз фэнтези		False
+2762	Клево, Эрих Краузе		False
+2763	Erich Crause		False
+2764	Не помню		False
+2765	Луч		False
+2766	эрих краузе		False
+2767	затрудняюсь		False
+2768	брауберг		False
+2769	прпрча		False
+2770	Нет		False
+2771	Каляка-маляка Кариока		False
+2772	Умник		False
+2773	Гамма, Луч,		False
+2774	Каляев малышка, кохинор, корес, брауберг		False
+2775	play doh  мульти пульти		False
+2776	детский мир		False
+2777	Брауберг, каляка маляка, эрих краузе		False
+2778	луч		False
+2779	Плэй-до, артбэрри, лего, Каляка-маляка, centropen, луч		False
+2780	Плэй до		False
+2781	Гамма, erichkrause, big		False
+2782	Каляка-маляка,кох-и-ноор хардтмут,мазари		False
+2783	Не смотрю на бренды		False
+2784	Не помню		False
+2785	play doll		False
+2786	фабер кастел, ериш крауз.		False
+2787	брауберг		False
+2788	Erich krause		False
+2789	ЛУЧ, ПРЕСТИЖ, БРАУБЕРГ		False
+2790	Не помню		False
+2791	Гамма,Art berry, clipstudio, луч		False
+2792	фломастеры икеа,луч-акварельные краски		False
+2793	не помню		False
+2794	кидс фентази.затрудняюсь ответить		False
+2795	Клякса		False
+2796	Каляка маляка		False
+2797	Кохинор, эрих краузе, луч		False
+2798	Кохинор		False
+2799	Каляка-маляка,кариока, барамба		False
+2800	Берлинго, Клаузе		False
+2801	Не помню		False
+2802	каляка-маляка, big, гамма		False
+2803	Faber castell, Лео, Kanzy, гамма,, пифагор		False
+2804	Каляка маляка, краузер		False
+2805	Беби арт   пиши стирай		False
+2806	faber castell  гамма		False
+2807	Clipstudo,луч,веселая радуга		False
+2808	Каляка-маляка,луч		False
+2809	луч		False
+2810	каляка		False
+2811	Луч criola fiber Erich crause		False
+2812	Калякамаляка		False
+2813	Не помню		False
+2814	мапед		False
+2815	Не помню		False
+2816	крайола		False
+2817	каляка маляка		False
+2818	Play douh, радуга , de vente		False
+2819	Не помню название		False
+2820	Никакие		False
+2821	студиа		False
+2822	Эрик Краузе		False
+2823	Гамма		False
+2824	луч,Carioca,гамма		False
+2825	Play doh		False
+2826	спектр		False
+2827	не помню		False
+2828	Пифагор		False
+2829	Erich Krause		False
+2830	КАЛЯКА МАЛЯКА		False
+2831	не помню		False
+2832	Эрик краузе		False
+2833	JOVI		False
+2834	эрик краусе		False
+2835	Гамма, Erich Krause		False
+2836	Класаика		False
+2837	Не помню		False
+2838	Каляка-маляка		False
+2839	Каляка-маляка,Crayola,Луч,Гамма.		False
+2840	эрих краузе		False
+2841	Луч. Каляка маляка. Эрик Краузе		False
+2842	Не помню		False
+2843	Гамма, Луч, Эрих краузе		False
+2844	Мапед		False
+2845	Не помню		False
+2846	Гамма увлечений,unicorn,сибирский кедр.		False
+2847	Эрих Краузе, Кохинур		False
+2848	не помню		False
+2849	Gloria jeans,тикирики,play today,bo and bo		False
+2850	Мульти-пульте, Берлинго, браунберг		False
+2851	Офисмаг, Ериккраузер, брауберг		False
+2852	десятое королевство, арт-квартал		False
+2853	Гамма  Ерик Краузе		False
+2854	Carioca, play doh,		False
+2855	Crayola, Erich Crause,луч		False
+2856	кохинор		False
+2857	Не могу вспомнить		False
+2858	Гамма		False
+2859	гамма, луч		False
+2860	Кохинор, эрик краузе, каляка-маляка		False
+2861	Не помню		False
+2862	луч, каляка-маляка		False
+2863	Каляка маляка		False
+2864	Гамма, Комус, Эрих Краузе,koh-i-nor,brauberg,		False
+2865	berlingo, луч, bic		False
+2866	Луч, гамма		False
+2867	modelling clay  cullinan  brauberg		False
+2868	Луч		False
+2869	плэй до каляка маляка		False
+2870	Капитошка		False
+2871	Луч		False
+2872	Эрих Краузер, Плей До		False
+2873	биг,		False
+2874	Каляка-Маляка, BIC, артформат, Сонет, STABILO,, LORI		False
+2875	Икея,Луч,Биг, Гамма		False
+2876	гамма		False
+2877	гамма		False
+2878	гамма, луч, hasbro,bik,auchan		False
+2879	Пластишка		False
+2880	Луч,		False
+2881	Мульти Пульти		False
+2882	Луч		False
+2883	луч, корес		False
+2884	Erich krause		False
+2885	каляка-маляка		False
+2886	каляка-маляка, мола		False
+2887	Ни какие		False
+2888	erichkrause		False
+2889	Eric Krause		False
+2890	Не  помню		False
+2891	play doh, lori, ikea, bic		False
+2892	Crayons		False
+2893	сибирский кедр, брауберг, луч		False
+2894	Не помню		False
+2895	Луч. Каляка моляка. Erichkrause. centrum. Centronen. Гамма.		False
+2896	Каляка-маляка, фантазия, луч		False
+2897	не помню		False
+2898	Луч,creativ, каляка-маляка		False
+2899	луч гамма		False
+2900	непомню		False
+2901	Луч,гамма,		False
+2902	брауберг		False
+2903	Гамма		False
+2904	Плей до, Краолла,лучKoh-I-Noor brayberg? big		False
+2905	кроха		False
+2906	Каляка маляка,Эрих Краузе, Crayola, Derwent		False
+2907	Калямаляка		False
+2908	Гамма акварель		False
+2909	Никаких		False
+2910	Ikea		False
+2911	GIOTTO  Carioca		False
+2912	Луч, Гамма, Невская палитра, Faber-Castell		False
+2913	мульти пульти		False
+2914	полион		False
+2915	Всезнайка, Ялюбознательность, Детям.		False
+2916	тропик колорс,  Луч,		False
+2917	Калека малыша, гамма, prof, пифагор, Союзмультфильм		False
+2918	Плей док		False
+2919	эрих краузе,каляка-маляка		False
+2920	Эрик краузе		False
+2921	Кареока, луч, артберри, Эрих Краузе		False
+2922	Гамма		False
+2923	гамма		False
+2924	ринринр		False
+2925	Эрик Краузе		False
+2926	Не помню названия,  кохинор карандаши		False
+2927	Каляка маляка		False
+2928	Гамма		False
+2929	Гамма калякамаляка, паркер		False
+2930	гуашь "мультики", акварель фирмы "брауберг", пластелин "моделлинг клей", властелин гамма, вломастеры "брауберг		False
+2931	луч, эрик краузер, каляка-маляка		False
+2932	лего . металлический конструктор		False
+2933	луч		False
+2934	кидс фэнтази		False
+2935	гамма,ка ляка маляка, Erich Krause,луч,		False
+2936	классические каляка маляка бик пентел		False
+2937	Акварель		False
+2938	гиотто, гамма, пластилин  пластилин луч кроха,для лепки интеллигент, фломастеры интелигент		False
+2939	не помню		False
+2940	Брауберг,каляка маляка		False
+2941	Незнаю		False
+2942	Super Mega Art Set 208		False
+2943	акула, детский мир лего		False
+2944	Каляка маляка,дели		False
+2945	Bic, art space		False
+2946	Play doh		False
+2947	Не помню		False
+2948	не помню		False
+2949	луч		False
+2950	7-я, attomex. луч		False
+2951	не помню, беру что считаю подходит, на бренд не смотрю		False
+2952	Штабила		False
+2953	Кохинор, Берлинго		False
+2954	Play doh		False
+2955	Калькулятор маляка		False
+2956	Луч		False
+2957	Луч  Каляка-Маляка		False
+2958	каляка маляка		False
+2959	каляка-маляка		False
+2960	Нет		False
+2961	акварель классика цвета,кисти белочка		False
+2962	Мульти пульти		False
+2963	Не помню		False
+2964	Bic, pilot, ErichKhrauzer		False
+2965	Акварель, бик, ерик краузе		False
+2966	Луч		False
+2967	Брауберг		False
+2968	Гамма, Луч, Hasbro, Play Doh,Hatber, KohINor, Faber Castelle		False
+2969	каляка маляка		False
+2970	Не помню		False
+2971	плей до		False
+2972	Эрик краузе		False
+2973	Луч, х-tens		False
+2974	Play doh  Луч  Erhaft		False
+2975	Берлинго		False
+2976	lori  мульти пульти  каждый день		False
+2977	Не помню, первые попавшиеся на полке		False
+2978	Гамма, луч, эриккраузер		False
+2979	Луч,гамма,каляка маляка		False
+2980	Berlingo  Erich krause		False
+2981	Хатлер, брауберг, стабило , луч		False
+2982	Незнаю		False
+2983	Много		False
+2984	луч, гамма, play-oh, Bic, stabilo		False
+2985	никакие		False
+2986	Эриккраузер, беринго		False
+2987	Плей-до		False
+2988	Каляка-маляка		False
+2989	Мультфильмы  Луч  Пчелка  Гамма		False
+2990	не помню		False
+2991	не помню		False
+2992	Луч  плей до  мультики  каляка маляка		False
+2993	Палитра		False
+2994	Не помню		False
+2995	Play doh, Кохинор, Centropen, Каляка маляка		False
+2996	Play doh  Crayola  Bic		False
+2997	каляка маляка, стаф, многое другое		False
+2998	Эрихкраузер		False
+2999	Эрик краузер		False
+3000	Berlingo		False
+3001	Каляка маляка		False
+3002	Луч, Каляка-Маляка		False
+3003	луч		False
+3004	луч,мульти пульти,мультики,эрих краузе		False
+3005	Краузер		False
+3006	Брауберг   Сонет   каляка-маляка		False
+3007	Не помню		False
+3008	Плей до,		False
+3009	каляка-маляка		False
+3010	Эрик Краузе		False
+3011	Мапед, бруно вискони		False
+3012	Бегемотик		False
+3013	не помню		False
+3014	Не помню		False
+3015	Луч, Гамма, иностранный изготовитель		False
+3016	луч		False
+3017	не помню		False
+3018	ГАММА, Луч, Bruno Visconti		False
+3019	Каляка-маляка, гамма		False
+3020	луч		False
+3021	Гамма		False
+3022	биг,		False
+3023	плэй до		False
+3024	плей до		False
+3025	Луч, Пифагор,		False
+3026	Луч,херлитс		False
+3027	Эрих краузе		False
+3028	Белочка, пони		False
+3029	Каляка маляка		False
+3030	ЭрихКраузе Гамма Кохинур		False
+3031	Пластилин, Брауберг, Плэй до, Каляка-маляка, Акварелька, Эрик Краузер		False
+3032	Луч, Гамма, Erich Krause,		False
+3033	BIG, centropen, carioca		False
+3034	не помню		False
+3035	Гамма, луч, этих краузер, кохинор,		False
+3036	Луч ,гамма		False
+3037	ПЛЭЙ ДО  БИГ  ПЧЕЛКА		False
+3038	Акварель, Кухинор, Луч		False
+3039	Плей до		False
+3040	луч  farber caster  гамма		False
+3041	0		False
+3042	BIC, Carioca, Centropen, Сrayola, Erich Krause, Jovy, Koh-I-NoorMaped, Silwerhof, «Каляка-Маляка», «Стамм».		False
+3043	Сибирский кедр		False
+3044	Каляка-Маляка,Forester,		False
+3045	Ерихкраузе		False
+3046	желтые		False
+3047	брауберг		False
+3048	эрихкраузер		False
+3049	Гамма		False
+3050	Луч		False
+3051	каляка маляка		False
+3052	не помню		False
+3053	Не помню		False
+3054	Брауберг		False
+3055	Калека малявка,		False
+3056	Лучик		False
+3057	Эрих краузе, Вауэр, Срайола, Джови, Гамма,		False
+3058	нет		False
+3059	Брауберг, юнландия, Пифагор, хайтекс		False
+3060	big		False
+3061	maped		False
+3062	Не помню		False
+3063	лего,киа.		False
+3064	365 товары лента		False
+3065	Эрих краузе, биг		False
+3066	Луч		False
+3067	Брауберг  Эрих Краузе  Комус  Биг		False
+3068	Гамма		False
+3069	-		False
+3070	мир игрушек		False
+3071	Каляка маляка		False
+3072	Бруно Висконти		False
+3073	Луч, Гамма		False
+3074	гамма, краузе		False
+3075	мульт, луч, стамм, ерих краузе,классные помощники		False
+3076	Эрикраузе		False
+3077	Не помню		False
+3078	плей до		False
+3079	Гамма  Луч  Maped  Каляка-Маляка  Koni-noor  Erich krauzer		False
+3080	Herlitz, Eric crauser, pelican,koh-I-noor		False
+3081	Затрудняюсь ответить		False
+3082	Пикнмикс, дед Мазай, спектр,тесто из детства		False
+3083	Hatber, Foska,Erich Krausе, Koh-i-Noor		False
+3084	не запоминала, смотрела на цену.		False
+3085	Каляка-маляка		False
+3086	Эрих Краузе  Деревяшки  Плай до		False
+3087	Луч, Кохинор,		False
+3088	Никаких		False
+3089	Эрих краузе		False
+3090	Рлэй до, луч, пифагор		False
+3091	Палитра		False
+3092	Не помню		False
+3093	не помню		False
+3094	Невская палитра, Юниор, Берлинго, Эрик Крауз, гамма, луч		False
+3095	Комус,		False
+3096	Луч, каляка маляка, эрих краузе		False
+3097	Каракули		False
+3098	Луч, crayola. Play- doh		False
+3099	Эрих Краузе, гамма, биг		False
+3100	Акварель Классика Престиж, карандаши Каляка Маляка		False
+3101	лори,хатбер, луч, мульти пульти, эрик краузе		False
+3102	Гамма, Луч, SCHOOL		False
+3103	Каляка-Маляка, Плей до		False
+3104	эрих краузе		False
+3105	гамма, акварель, арт бевери		False
+3106	Пчелка, луч, Рисовашка, ErichKrause		False
+3107	Эрик краузер		False
+3108	Кохинор, эрих краузе, каляка маляка, краела		False
+3109	Dolphine,		False
+3110	Маша и медведь		False
+3111	луч, гамма, криола, кохинор, джови		False
+3112	Никакие		False
+3113	play-doh  воятель  гамма  луч		False
+3114	Erich Krause, pilot		False
+3115	гамма, пчелка, акварель		False
+3116	на память никакие не помню		False
+3117	Не помню		False
+3118	STABILO, big, кохинор,		False
+3119	Гамма		False
+3120	Всегда разные, не помню		False
+3121	7 planet		False
+3122	Невская палитра ерих краузе		False
+3123	пифагор		False
+3124	не помню		False
+3125	Луч, брауберг		False
+3126	Луч, Гамма		False
+3127	Гамма		False
+3128	гамма		False
+3129	каляка маляка		False
+3130	луч		False
+3131	Пластишка, Луч,		False
+3132	мульти пульти крайола кареоки арт берри каляка маляка фабер кастел		False
+3133	Луч, Эрих Краусе		False
+3134	кохинор, бик, брауберг, луч, пифагор		False
+3135	Big		False
+3136	артспейс		False
+3137	тануки		False
+3138	Гамма, Луч		False
+3139	не помню		False
+3140	Каляка-маляка, луч, art-space		False
+3141	не помню		False
+3142	гамма, луч, каляка-маляка, девенте		False
+3143	Луч		False
+3144	Пластишка, престиж, кроха		False
+3145	корес, фабер кастел,		False
+3146	-		False
+3147	не помню		False
+3148	ПлейДу		False
+3149	каляка-маляка		False
+3150	Гамма,Faber-castell,Baramba		False
+3151	Пифагор		False
+3152	Не знаю		False
+3153	гамма, ленинградские ночи, сонет,		False
+3154	Плейдо, карайола, невская палитра		False
+3155	Рихау		False
+3156	Луч, классика, цветик, плейдо, Бик,		False
+3157	Луч  Фентези		False
+3158	Bik		False
+3159	Эрхафт, эрих краузе		False
+3160	Каляка Маляка, Кохинор, Пифагор, Луч, Брауберг		False
+3161	Kores, bic, erich krause		False
+3162	Josef otten, каляка-маляка, erich krause		False
+3163	не помню		False
+3164	гамма		False
+3165	коляк маяк		False
+3166	Радуга		False
+3167	луч		False
+3168	не знаю		False
+3169	Луч, пчелка, эрих краузе		False
+3170	каляка маляка		False
+3171	Юландия		False
+3172	Луч гамма моё солнышко Гулливер		False
+3173	Луч		False
+3174	Эрих краузэ, кариока		False
+3175	Эрик краузе, Ко-хи-нор, Каляка-Маляка		False
+3176	луч,гамма,эрик краузер,биг		False
+3177	гамма		False
+3178	пони		False
+3179	Эрих краузе		False
+3180	Erich Krause		False
+3181	Луч, кахинор, гамма		False
+3182	Луч, Гамма		False
+3183	луч, эринкраузер, гамма		False
+3184	BIC, ERICH CRAUSE		False
+3185	Харбер,каляка-маляка,луч, Гамма		False
+3186	Каяка маляка		False
+3187	Луч,коляка моляка		False
+3188	Не помню		False
+3189	6 цветов, Акварель		False
+3190	Комус		False
+3191	Erich Krause		False
+3192	Никакие		False
+3193	Не помню		False
+3194	калякамаляка		False
+3195	енот мульти-пульти     гамма		False
+3196	Эрик Краузе		False
+3197	Не помню		False
+3198	Луч		False
+3199	Каляка маляка, Брауберг, Луч		False
+3200	луч артком		False
+3201	лучик		False
+3202	Брауберг стаф		False
+3203	Эрих краузе		False
+3204	Плей до, мульти пульти, луч		False
+3205	Каляка Маляка		False
+3206	Гамма, луч		False
+3207	Каляка-маляка, Брауберг, ЭрихКраузе, Артспейс		False
+3208	ErichKrouse, Луч		False
+3209	Каляка маляка,брюгман		False
+3210	пифагор,берлинго		False
+3211	Гамма		False
+3212	Каляка-маляка		False
+3213	Эрикраузер		False
+3214	Каляка маляка		False
+3215	Bic  Эрих Краузе  Кохинор  Гамма  Луч		False
+3216	Эриккраузе, гамма, паркер		False
+3217	КалякаМаляка		False
+3218	Гамма  ЛУЧ		False
+3219	не помню		False
+3220	гамма		False
+3221	бьжьжьж		False
+3222	Гамма,BIC,плей-до		False
+3223	плей до		False
+3224	Луч, Гамма, Кариока, Центропен		False
+3225	Гамма,Сима-ленд		False
+3226	Не помню		False
+3227	гамма эрих краузе		False
+3228	луч,гамма - мультики		False
+3229	Артспайс, плейдо		False
+3230	Не помню		False
+3231	Затрудняюсь ответить		False
+3232	Непомню		False
+3233	IKEA  Clipstudio  Kohinor		False
+3234	Bic		False
+3235	гамма, луч, мульти-пульти		False
+3236	не помню		False
+3237	0		False
+3238	Луч, гамма		False
+3239	KOH-I-NOOR		False
+3240	Каляка маляка		False
+3241	не помню		False
+3242	Ерих крауз, гамма		False
+3243	Пеликан		False
+3244	не помню		False
+3245	Каляка-маляка, Кох-и-нор, Бик, Гамма		False
+3246	Гамма		False
+3247	акватика		False
+3248	Брауэр,		False
+3249	Эрик краузе  Луч  Каляка маляка  Ленинград		False
+3250	не помню		False
+3251	не помрю		False
+3252	Erih Crowzer		False
+3253	Эрик краузер клякса		False
+3254	Гамма		False
+3255	Гамма		False
+3256	fix price, каляка-маляка		False
+3257	Не помню		False
+3258	Эрик Краузе, Каляка Маляка		False
+3259	Эрик краузе		False
+3260	Луч.силверхоф.каляка маляка.гамма.сенд бокс.		False
+3261	крайола		False
+3262	Не помню		False
+3263	мульти-пульти, гамма		False
+3264	Гамма, луч, Erich Krause, Disney		False
+3265	брауберг эрихкраузе  гамма  лимпопо  центрум		False
+3266	Акварель		False
+3267	краски акварель		False
+3268	Не помню		False
+3269	Невские краски		False
+3270	не помню		False
+3271	Луч, гамма		False
+3272	Каляка маляка, луч, пилот		False
+3273	Erich Krause, Giotto, playdoh, Луч		False
+3274	каляка маляка		False
+3275	хасбро		False
+3276	каляка маляка		False
+3277	Невская палитра		False
+3278	не помню		False
+3279	carioca		False
+3280	креола		False
+3281	Ни какие		False
+3282	Эрик краузер		False
+3283	Кореока, Носики-Курносики, Эрик Краузер, Каляка Маляка		False
+3284	gamma		False
+3285	каляка маляка, луч		False
+3286	Эрих Краузе, Ашан,		False
+3287	Брауберг		False
