@@ -39,7 +39,7 @@ namespace WordReview.Repository
 
         public Task<T> AsyncFindById(int id)
         {
-            throw new NotImplementedException();
+            return Task.Run(() => _dbSet.Find(id));
         }
 
         public Task<IEnumerable<T>> AsyncGet(Func<T, bool> predicate)
@@ -64,7 +64,7 @@ namespace WordReview.Repository
 
         public Task AsyncUpdate(T item)
         {
-            throw new NotImplementedException();
+            return Task.Run(() => _context.Entry(item).State = EntityState.Modified);
         }
 
         public T FindById(int id)

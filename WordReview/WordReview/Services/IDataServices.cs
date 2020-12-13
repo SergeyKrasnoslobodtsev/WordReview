@@ -9,11 +9,7 @@ namespace WordReview.Services
 {
     public interface IDataServices
     {
-        Task<IEnumerable<ResponseCode>> GetAsyncCodes(string file);
-        Task<IEnumerable<Answers>> GetAsyncLoadAnswers(string file);
-        Task<IEnumerable<Answers>> GetAsyncLoadAnswers();
-        IEnumerable<ResponseCode> GetCodes(string file);
-        IEnumerable<Answers> GetLoadAnswers(string file);
-        IEnumerable<Answers> GetLoadAnswers();
+        Task AsyncLoaderFileToData(string fileName, Int32 BufferSize = 4096);
+        void LoaderFileToData(string fileName, Int32 BufferSize = 4096);
     }
 }

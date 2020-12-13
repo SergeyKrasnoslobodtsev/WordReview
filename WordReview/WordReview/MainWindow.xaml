@@ -14,6 +14,7 @@
         <Menu DockPanel.Dock="Top">
             <MenuItem Header="Файл">
                 <MenuItem Header="Открыть" Command="{Binding OpenFileCommand}"/>
+                <MenuItem Header="Очистить"/>
                 <MenuItem Header="Выход"/>
             </MenuItem>
         </Menu>
@@ -32,37 +33,45 @@
                     <RowDefinition Height="auto"/>
                     <RowDefinition/>
                 </Grid.RowDefinitions>
-                <ui:AutoSuggestBox x:Name="search" PlaceholderText="Поиск" Text="{Binding SelectedItem.Answer}"/>
-                <Button Width="32" Height="32" Command="{Binding FindCommand}" CommandParameter="{Binding ElementName=search, Path=Text}" HorizontalAlignment="Right">
-                    <Button.Content>
-                        <ui:PathIcon Data="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
-                    </Button.Content>
-                </Button>
-                <ListView Grid.Row="2" Grid.ColumnSpan="2" ItemsSource="{Binding GetAnswers}" SelectedItem="{Binding SelectedItem}">
+                <StackPanel>
+                    <TextBlock Text="Ответ:" Style="{StaticResource CaptionTextBlockStyle}"/>
+                    <TextBox Text="{Binding Pattern, UpdateSourceTrigger=PropertyChanged}"/>
+                    <TextBlock Text="Список вопросов для кодировки:" Style="{StaticResource CaptionTextBlockStyle}"/>
+                </StackPanel>
+
+                <ListView Margin="0 5" Grid.Row="2" Grid.ColumnSpan="2" ItemsSource="{Binding GetAnswers}" SelectedItem="{Binding SelectedItem}">
                     <ListView.View>
                         <GridView>
                             <GridViewColumn DisplayMemberBinding="{Binding Path=Id}" Width="100">Id</GridViewColumn>
-                            <GridViewColumn DisplayMemberBinding="{Binding Path=Answer}">Ответы</GridViewColumn>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Answer}" Width="200">Ответы</GridViewColumn>
                             <GridViewColumn DisplayMemberBinding="{Binding Path=Code}" Width="100">Код</GridViewColumn>
                         </GridView>
                     </ListView.View>
                 </ListView>
             </Grid>
             <Grid Margin="5" Grid.Column="2">
-                <ListView ItemsSource="{Binding GetSearchAnswers}">
-                    <ListView.View>
-                        <GridView>
-                            <GridViewColumn DisplayMemberBinding="{Binding Path=Id}" Width="100">Id</GridViewColumn>
-                            <GridViewColumn DisplayMemberBinding="{Binding Path=Answer}">Ответы</GridViewColumn>
-                            <GridViewColumn DisplayMemberBinding="{Binding Path=Code}" Width="100">Код</GridViewColumn>
-                        </GridView>
-                    </ListView.View>
-                </ListView>
+                <StackPanel>
+                    <TextBlock Text="Ответ:" Style="{StaticResource CaptionTextBlockStyle}"/>
+                    <TextBox Text="{Binding SelectedItem.Answer, UpdateSourceTrigger=PropertyChanged}"/>
+                    <TextBlock Text="Коды:" Style="{StaticResource CaptionTextBlockStyle}"/>
+                    <TextBox Text="{Binding SelectedItem.Code, UpdateSourceTrigger=PropertyChanged}"/>
+                    <Button Margin="0,5,0,5" Command="{Binding EditAnswerAndAddCodeCommand}">Добавить</Button>
+                    <TextBlock Text="Список ключей:" Style="{StaticResource CaptionTextBlockStyle}"/>
+                    <ListView ItemsSource="{Binding GetCodes}" SelectedItem="{Binding SelectedCode}">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn DisplayMemberBinding="{Binding Path=Id}" Width="100">Id</GridViewColumn>
+                                <GridViewColumn DisplayMemberBinding="{Binding Path=Word}" Width="200">Слово</GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </StackPanel>
+                
             </Grid>
-            <StatusBar Grid.Row="1">
+            <StatusBar Grid.Row="1" Grid.ColumnSpan="2">
                 <AccessText Text="{Binding TotalCount}"/>
                 <Separator/>
-                <AccessText>Обработано: 2067</AccessText>
+                <AccessText Text="{Binding CurrentCount}"/>
             </StatusBar>
         </Grid>
     </DockPanel>
