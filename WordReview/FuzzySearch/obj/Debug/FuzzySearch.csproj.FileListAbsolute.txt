@@ -4,3 +4,8 @@ C:\Users\Администратор\source\repos\SergeyKrasnoslobodtsev\WordRevi
 C:\Users\Администратор\source\repos\SergeyKrasnoslobodtsev\WordReview\WordReview\FuzzySearch\bin\Debug\FuzzySearch.pdb
 C:\Users\Администратор\source\repos\SergeyKrasnoslobodtsev\WordReview\WordReview\FuzzySearch\obj\Debug\FuzzySearch.dll
 C:\Users\Администратор\source\repos\SergeyKrasnoslobodtsev\WordReview\WordReview\FuzzySearch\obj\Debug\FuzzySearch.pdb
+C:\Users\Админ\source\repos\SergeyKrasnoslobodtsev\WordReview\WordReview\FuzzySearch\bin\Debug\FuzzySearch.dll
+C:\Users\Админ\source\repos\SergeyKrasnoslobodtsev\WordReview\WordReview\FuzzySearch\bin\Debug\FuzzySearch.pdb
+C:\Users\Админ\source\repos\SergeyKrasnoslobodtsev\WordReview\WordReview\FuzzySearch\obj\Debug\FuzzySearch.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\SergeyKrasnoslobodtsev\WordReview\WordReview\FuzzySearch\obj\Debug\FuzzySearch.dll
+C:\Users\Админ\source\repos\SergeyKrasnoslobodtsev\WordReview\WordReview\FuzzySearch\obj\Debug\FuzzySearch.pdb

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WordReview.UnitOfWork
+namespace WordReview
 {
     public interface IUnitOfWork : IDisposable {
        void Commit();

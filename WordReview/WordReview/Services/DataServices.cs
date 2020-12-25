@@ -15,7 +15,7 @@ namespace WordReview.Services
         public void LoaderFileToData(string fileName, Int32 BufferSize = 4096) {
             using (var fileStream = File.OpenRead(fileName))
             using (var streamReader = new StreamReader(fileStream, Encoding.Default, true, BufferSize))
-            using (var uof = new UnitOfWork.UnitOfWork()) {
+            using (var uof = new UnitOfWork()) {
                 String line;
                 while ((line = streamReader.ReadLine()) != null) {
                     var values = line.Split('\t');

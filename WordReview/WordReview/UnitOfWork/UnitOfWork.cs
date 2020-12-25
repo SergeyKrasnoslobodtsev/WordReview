@@ -5,7 +5,7 @@ using System.Linq;
 using WordReview.Model;
 using WordReview.Repository;
 
-namespace WordReview.UnitOfWork
+namespace WordReview
 {
     public sealed class UnitOfWork : IUnitOfWork
     {
@@ -40,7 +40,8 @@ namespace WordReview.UnitOfWork
 
         private  AnswersRepository answersRepository;
         public AnswersRepository AnswersRepository => answersRepository ?? (answersRepository = new AnswersRepository(_context));
-
+        private ResponseCodeRepository responseCodeRepository;
+        public ResponseCodeRepository ResponseCodeRepository => responseCodeRepository ?? (responseCodeRepository = new ResponseCodeRepository(_context));
 
 
         #region Dispose

@@ -13,5 +13,6 @@ namespace WordReview.Model
         }
 
         public DbSet<Answers> EquipmentList { get; set; }
+        public DbSet<ResponseCode> ResponseCodes { get; set; }
     }
 }

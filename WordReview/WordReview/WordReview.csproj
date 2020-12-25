@@ -107,6 +107,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Converters\CodesToTextConverters.cs" />
+    <Compile Include="Converters\TextSearchMultiConverter.cs" />
+    <Compile Include="Dependency\ListViewColumnsStretch.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\Answers.cs" />
     <Compile Include="Model\DataContext.cs" />
@@ -117,6 +120,7 @@
     <Compile Include="UnitOfWork\Repository\BaseRepository.cs" />
     <Compile Include="UnitOfWork\Repository\IBaseRepositor.cs" />
     <Compile Include="UnitOfWork\Repository\AnswersRepository.cs" />
+    <Compile Include="UnitOfWork\Repository\ResponseCodeRepository.cs" />
     <Compile Include="UnitOfWork\UnitOfWork.cs" />
     <Compile Include="ViewModel\MainViewModel.cs" />
     <Compile Include="ViewModel\ViewModelLocator.cs" />

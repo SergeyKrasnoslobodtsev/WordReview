@@ -44,7 +44,7 @@ namespace WordReview.Repository
 
         public Task<IEnumerable<T>> AsyncGet(Func<T, bool> predicate)
         {
-            throw new NotImplementedException();
+            return Task.Run(() => _dbSet.AsNoTracking().Where(predicate));
         }
 
         public Task<List<T>> AsyncGetAll()
@@ -54,12 +54,12 @@ namespace WordReview.Repository
 
         public Task AsyncRemove(T item)
         {
-            throw new NotImplementedException();
+            return Task.Run(() => _dbSet.Remove(item));
         }
 
         public Task AsyncRemoveRange(IEnumerable<T> items)
         {
-            throw new NotImplementedException();
+            return Task.Run(() => _dbSet.RemoveRange(items));
         }
 
         public Task AsyncUpdate(T item)
